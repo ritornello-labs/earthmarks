@@ -33,6 +33,10 @@ def release(destination: Path, media: Path):
     # Redistribute the complete license with the bundled library.
     notice = (ROOT / 'licenses/MAPLIBRE.txt').read_text()
     css += '\n/*\n' + notice + '\n*/\n'
+    # Anki's package exporter discovers CSS URLs, not JavaScript-built tile URLs.
+    # This unused selector retains every shared tile without loading extra images.
+    css += '\n.earthmarks-offline-media { background-image: ' + ','.join(
+        f'url("{p.name}")' for p in tiles) + '; }\n'
     model = genanki.Model(MODEL_ID, 'Places — Globe',
         fields=[{'name': name} for name in FIELDS],
         templates=[{'name': 'Locate', 'qfmt': templates['front'], 'afmt': templates['back']}],
