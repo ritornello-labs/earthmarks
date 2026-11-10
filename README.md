@@ -31,7 +31,7 @@ The starting set is an arbitrary selection of **704 cities**. The same template 
 
 Borders start off, so coastlines, terrain, and spatial memory do the work. Turn borders on whenever you want a reference. Choose your default tolerance, reduce motion, or add an individual tolerance for a particular place.
 
-<img src="docs/images/2026-11-09-v2/settings-cursor.gif" alt="A real Anki Paris practice card: open settings, turn country borders on, close the menu, and see the borders on the globe." width="960">
+<img src="docs/images/2026-11-09-v2/settings-quick.gif" alt="A real Anki Paris practice card: open settings, turn country borders on, close the menu, and see the borders on the globe." width="960">
 
 The settings menu lets you choose borders, precision, image layout, Wikipedia display, and reduced motion. The demo holds the unobstructed globe after borders are enabled.
 
