@@ -5,7 +5,7 @@ Geography you can put your finger on.</p>
 
 <p align="center"><a href="#the-reveal">See the reveal</a> · <a href="#add-your-own-places">Add a place</a> · <a href="#getting-started">Get started</a> · <a href="https://ritornello.dev/support">Support Ritornello</a></p>
 
-<p align="center"><img src="docs/images/locate.gif" alt="An actual Anki review: guess San Francisco near Las Vegas, then reveal both points and the 670.4 km gap." width="960"></p>
+<p align="center"><img src="docs/images/2026-11-09-v2/locate.gif" alt="An actual Anki review: rotate and zoom the globe, guess San Francisco near Las Vegas, then reveal both points and the 670.4 km gap." width="960"></p>
 
 <p align="center"><sub>Captured in real Anki with a synthetic practice note. Orange is your guess; green is the location.</sub></p>
 
@@ -15,7 +15,7 @@ Geography you can put your finger on.</p>
 
 Earthmarks turns a place name into a small geography challenge. Spin the satellite globe, find your bearings, and drop a pin. Reveal the answer and watch your guess meet the real location—with both points, a connecting arc, and your distance visible together.
 
-The first edition starts with **704 curated cities**. The same template works for a mountain, a temple, or any other place you can represent with a point.
+The starting set is an arbitrary selection of **704 cities**. The same template works for a mountain, a temple, or any other place you can represent with a point.
 
 | A world you can explore | Feedback you can see | A deck you can grow |
 | :--- | :--- | :--- |
@@ -30,6 +30,10 @@ The first edition starts with **704 curated cities**. The same template works fo
 3. **Grade yourself.** The distance and your chosen tolerance help you judge your answer. Anki remains in charge of scheduling, and you choose the grade.
 
 Borders start off, so coastlines, terrain, and spatial memory do the work. Turn borders on whenever you want a reference. Choose your default tolerance, reduce motion, or add an individual tolerance for a particular place.
+
+<img src="docs/images/2026-11-09-v2/settings.gif" alt="A real Anki Paris practice card: open settings, turn country borders on, close the menu, and see the borders on the globe." width="960">
+
+The settings menu lets you choose borders, precision, image layout, Wikipedia display, and reduced motion. The demo holds the unobstructed globe after borders are enabled.
 
 ## Add your own places
 

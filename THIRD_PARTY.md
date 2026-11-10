@@ -36,7 +36,7 @@ The coarse borders are a reference aid, not an assertion about disputed territor
 
 ## Media
 
-README screenshots and the GIF show a synthetic San Francisco note rendered in
+README screenshots and GIFs show synthetic San Francisco and Paris notes rendered in
 actual disposable Anki by anki-addon-workbench. They are cropped to the card and
 resized for documentation. No personal notes, review histories or collection
 identifiers appear. The banner is original decorative artwork, not a card render.

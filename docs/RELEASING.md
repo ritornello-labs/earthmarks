@@ -30,7 +30,8 @@ limits and the shared overview imagery's resolution accurately.
 2. Seed the current `out/places/preview.apkg` from the current source build.
 3. Use anki-addon-workbench with `anki-media-workbench.toml` and
    `EARTHMARKS_CAPTURE_DIR` pointing outside Git to capture native front/reveal
-   frames. Save its result privately. The generic config may be copied to a
+   frames for the camera/reveal and settings/borders scenes, with monotonic frame
+   timestamps. Save its result privately. The generic config may be copied to a
    temporary directory as `anki-workbench.toml` for the CLI.
 4. Inspect text, markers, arc, framing, distance, controls and visible attribution.
    Crop only to present the native card; never recreate it in HTML for a screenshot.
