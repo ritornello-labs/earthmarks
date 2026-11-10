@@ -44,8 +44,11 @@ The first edition is the 704-city seed in `places/data/places.json`. Personal
 collection mirrors and source scheduling are outside this release scope. This
 repository's synthetic `--apkg` build is a QA fixture, not the shared deck.
 
-After the Ritornello entry is approved, prepare the separate AnkiWeb version,
-then the final release package through anki-addon-release and isolated Publisher.
+The Ritornello entry and both final GIFs were approved on November 9, 2026;
+exact media hashes are in `release/ritornello-approval.json`. The separate
+AnkiWeb draft is `release/ankiweb.md` and awaits its own complete-page review.
+After that review, prepare the final release package through anki-addon-release
+and isolated Publisher.
 Check copyright/provenance and the exact final APKG; archive byte-identical
 AnkiWeb submission bytes in a tagged GitHub release. Include the download and
 AnkiWeb links in Ritornello only when they exist. A public repository does not
