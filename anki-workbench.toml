@@ -1,0 +1,6 @@
+project_name = "Places Globe"
+seed_apkgs = ["out/places/preview.apkg"]
+anki_version = "25.09"
+webkit_selectors = [".places[data-ready=true]", ".maplibregl-canvas"]
+probe_addon = "places/tests/native_probe"
+probe_package = "zz_places_probe"

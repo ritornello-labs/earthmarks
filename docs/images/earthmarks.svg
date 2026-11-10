@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="330" viewBox="0 0 1400 330" role="img" aria-labelledby="title desc">
+<title id="title">Earthmarks</title><desc id="desc">Know the name. Find the place. Decorative orbital lines connect an orange guess to a mint target.</desc>
+<defs><linearGradient id="fade" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0c1421"/><stop offset="1" stop-color="#101d2c"/></linearGradient></defs>
+<rect width="1400" height="330" rx="20" fill="url(#fade)"/>
+<g fill="none" stroke="#294553" opacity=".7"><ellipse cx="1130" cy="168" rx="210" ry="190"/><ellipse cx="1130" cy="168" rx="115" ry="190"/><path d="M924 130h412M930 210h400M960 57h338M1130-25v385"/></g>
+<path d="M1000 225Q1090 80 1213 112" fill="none" stroke="#ffb86b" stroke-width="3" stroke-linecap="round"/>
+<circle cx="1000" cy="225" r="24" fill="#ffb86b" opacity=".1"/><circle cx="1000" cy="225" r="10" fill="#ffb86b" stroke="#f8fbff" stroke-width="3"/>
+<circle cx="1213" cy="112" r="28" fill="#78e4c8" opacity=".12"/><circle cx="1213" cy="112" r="11" fill="#78e4c8" stroke="#f8fbff" stroke-width="3"/>
+<text x="65" y="65" fill="#78e4c8" font-family="monospace" font-size="14" letter-spacing="5">RITORNELLO / GEOGRAPHY</text>
+<text x="60" y="190" fill="#f3f6fc" font-family="Georgia,serif" font-size="109" letter-spacing="-5">Earthmarks</text>
+<text x="66" y="244" fill="#b8c8da" font-family="Arial,sans-serif" font-size="25">Know the name. Find the place.</text>
+<text x="66" y="294" fill="#8da1b7" font-family="monospace" font-size="12" letter-spacing="3">704 CITIES · ONE SHARED GLOBE</text>
+</svg>

@@ -1,0 +1,17 @@
+{
+  "name": "earthmarks",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "python3 places/scripts/build.py",
+    "test": "node places/tests/browser.mjs"
+  },
+  "dependencies": {
+    "maplibre-gl": "6.16.0"
+  },
+  "devDependencies": {
+    "@playwright/test": "1.64.0",
+    "esbuild": "0.25.12"
+  },
+  "description": "Find places on an interactive offline globe in Anki."
+}

@@ -1,0 +1,6338 @@
+[
+  {
+    "name": "Aberdeen",
+    "coordinates": [
+      57.15,
+      -2.1
+    ],
+    "type": "City",
+    "context": "The United Kingdom"
+  },
+  {
+    "name": "Abidjan",
+    "coordinates": [
+      5.336388888,
+      -4.026666666
+    ],
+    "type": "City",
+    "context": "Ivory Coast"
+  },
+  {
+    "name": "Abu Dhabi",
+    "coordinates": [
+      24.451111111,
+      54.396944444
+    ],
+    "type": "City",
+    "context": "United Arab Emirates"
+  },
+  {
+    "name": "Abuja",
+    "coordinates": [
+      9.055555555,
+      7.491388888
+    ],
+    "type": "City",
+    "context": "Nigeria"
+  },
+  {
+    "name": "Accra",
+    "coordinates": [
+      5.546111111,
+      -0.206666666
+    ],
+    "type": "City",
+    "context": "Ghana"
+  },
+  {
+    "name": "Addis Ababa",
+    "coordinates": [
+      9.027222222,
+      38.736944444
+    ],
+    "type": "City",
+    "context": "Ethiopia"
+  },
+  {
+    "name": "Adelaide",
+    "coordinates": [
+      -34.9275,
+      138.6
+    ],
+    "type": "City",
+    "context": "Australia"
+  },
+  {
+    "name": "Agartala",
+    "coordinates": [
+      23.833333333,
+      91.266666666
+    ],
+    "type": "City",
+    "context": "India"
+  },
+  {
+    "name": "Agra",
+    "coordinates": [
+      27.18,
+      78.02
+    ],
+    "type": "City",
+    "context": "India"
+  },
+  {
+    "name": "Ahmedabad",
+    "coordinates": [
+      23.021944444,
+      72.579722222
+    ],
+    "type": "City",
+    "context": "India"
+  },
+  {
+    "name": "Ahvaz",
+    "coordinates": [
+      31.318888888,
+      48.684166666
+    ],
+    "type": "City",
+    "context": "Iran"
+  },
+  {
+    "name": "Aizawl",
+    "coordinates": [
+      23.733333333,
+      92.716666666
+    ],
+    "type": "City",
+    "context": "India"
+  },
+  {
+    "name": "Albany",
+    "coordinates": [
+      42.65,
+      -73.766666666
+    ],
+    "type": "City",
+    "context": "New York, The United States"
+  },
+  {
+    "name": "Albuquerque",
+    "coordinates": [
+      35.116666666,
+      -106.616666666
+    ],
+    "type": "City",
+    "context": "New Mexico, The United States"
+  },
+  {
+    "name": "Alexandria",
+    "coordinates": [
+      31.1975,
+      29.8925
+    ],
+    "type": "City",
+    "context": "Egypt"
+  },
+  {
+    "name": "Algiers",
+    "coordinates": [
+      36.776388888,
+      3.058611111
+    ],
+    "type": "City",
+    "context": "Algeria"
+  },
+  {
+    "name": "Almaty",
+    "coordinates": [
+      43.24,
+      76.915
+    ],
+    "type": "City",
+    "context": "Kazakhstan"
+  },
+  {
+    "name": "Amaravati",
+    "coordinates": [
+      16.5275,
+      80.4681
+    ],
+    "type": "City",
+    "context": "India"
+  },
+  {
+    "name": "Amman",
+    "coordinates": [
+      31.95,
+      35.933333333
+    ],
+    "type": "City",
+    "context": "Jordan"
+  },
+  {
+    "name": "Amritsar",
+    "coordinates": [
+      31.626917,
+      74.87704
+    ],
+    "type": "City",
+    "context": "India"
+  },
+  {
+    "name": "Amsterdam",
+    "coordinates": [
+      52.372777777,
+      4.893611111
+    ],
+    "type": "City",
+    "context": "Netherlands"
+  },
+  {
+    "name": "Anaheim",
+    "coordinates": [
+      33.836111111,
+      -117.889722222
+    ],
+    "type": "City",
+    "context": "California, The United States"
+  },
+  {
+    "name": "Andorra la Vella",
+    "coordinates": [
+      42.5,
+      1.5
+    ],
+    "type": "City",
+    "context": "Andorra"
+  },
+  {
+    "name": "Ankara",
+    "coordinates": [
+      39.93576,
+      32.83869
+    ],
+    "type": "City",
+    "context": "Turkey"
+  },
+  {
+    "name": "Annapolis",
+    "coordinates": [
+      38.978611111,
+      -76.491944444
+    ],
+    "type": "City",
+    "context": "Maryland, The United States"
+  },
+  {
+    "name": "Antakya",
+    "coordinates": [
+      36.2025,
+      36.160555555
+    ],
+    "type": "City",
+    "context": "Turkey"
+  },
+  {
+    "name": "Antananarivo",
+    "coordinates": [
+      -18.91,
+      47.525
+    ],
+    "type": "City",
+    "context": "Madagascar"
+  },
+  {
+    "name": "Anápolis",
+    "coordinates": [
+      -16.326944444,
+      -48.952777777
+    ],
+    "type": "City",
+    "context": "Brazil"
+  },
+  {
+    "name": "Apia",
+    "coordinates": [
+      -13.833333333,
+      -171.833333333
+    ],
+    "type": "City",
+    "context": "Samoa"
+  },
+  {
+    "name": "Apucarana",
+    "coordinates": [
+      -23.550833333,
+      -51.460833333
+    ],
+    "type": "City",
+    "context": "Brazil"
+  },
+  {
+    "name": "Aracaju",
+    "coordinates": [
+      -10.9167,
+      -37.05
+    ],
+    "type": "City",
+    "context": "Brazil"
+  },
+  {
+    "name": "Arapongas",
+    "coordinates": [
+      -23.418888888,
+      -51.423888888
+    ],
+    "type": "City",
+    "context": "Brazil"
+  },
+  {
+    "name": "Ashgabat",
+    "coordinates": [
+      37.95,
+      58.383333333
+    ],
+    "type": "City",
+    "context": "Turkmenistan"
+  },
+  {
+    "name": "Asmara",
+    "coordinates": [
+      15.333333333,
+      38.916666666
+    ],
+    "type": "City",
+    "context": "Eritrea"
+  },
+  {
+    "name": "Astana",
+    "coordinates": [
+      51.133333333,
+      71.433333333
+    ],
+    "type": "City",
+    "context": "Kazakhstan"
+  },
+  {
+    "name": "Asunción",
+    "coordinates": [
+      -25.3,
+      -57.633333333
+    ],
+    "type": "City",
+    "context": "Paraguay"
+  },
+  {
+    "name": "Athens",
+    "coordinates": [
+      37.984166666,
+      23.728055555
+    ],
+    "type": "City",
+    "context": "Greece"
+  },
+  {
+    "name": "Atlanta",
+    "coordinates": [
+      33.756944444,
+      -84.390277777
+    ],
+    "type": "City",
+    "context": "The United States"
+  },
+  {
+    "name": "Augusta",
+    "coordinates": [
+      44.310555555,
+      -69.779444444
+    ],
+    "type": "City",
+    "context": "Maine, The United States"
+  },
+  {
+    "name": "Austin",
+    "coordinates": [
+      30.3,
+      -97.733333333
+    ],
+    "type": "City",
+    "context": "Texas, The United States"
+  },
+  {
+    "name": "Baghdad",
+    "coordinates": [
+      33.315277777,
+      44.366111111
+    ],
+    "type": "City",
+    "context": "Iraq"
+  },
+  {
+    "name": "Bakersfield",
+    "coordinates": [
+      35.373333333,
+      -119.018888888
+    ],
+    "type": "City",
+    "context": "California, The United States"
+  },
+  {
+    "name": "Baku",
+    "coordinates": [
+      40.366655555,
+      49.835183333
+    ],
+    "type": "City",
+    "context": "Azerbaijan"
+  },
+  {
+    "name": "Baltimore",
+    "coordinates": [
+      39.286388888,
+      -76.615
+    ],
+    "type": "City",
+    "context": "The United States"
+  },
+  {
+    "name": "Bamako",
+    "coordinates": [
+      12.645833333,
+      -7.992222222
+    ],
+    "type": "City",
+    "context": "Mali"
+  },
+  {
+    "name": "Bandar Seri Begawan",
+    "coordinates": [
+      4.916666666,
+      114.916666666
+    ],
+    "type": "City",
+    "context": "Brunei"
+  },
+  {
+    "name": "Bandung",
+    "coordinates": [
+      -6.9021856,
+      107.6187558
+    ],
+    "type": "City",
+    "context": "Indonesia"
+  },
+  {
+    "name": "Bangkok",
+    "coordinates": [
+      13.75,
+      100.516666666
+    ],
+    "type": "City",
+    "context": "Thailand"
+  },
+  {
+    "name": "Bangui",
+    "coordinates": [
+      4.37325,
+      18.562833333
+    ],
+    "type": "City",
+    "context": "Central African Republic"
+  },
+  {
+    "name": "Banjul",
+    "coordinates": [
+      13.453055555,
+      -16.5775
+    ],
+    "type": "City",
+    "context": "The Gambia"
+  },
+  {
+    "name": "Baoding",
+    "coordinates": [
+      38.86712,
+      115.48452
+    ],
+    "type": "City",
+    "context": "China"
+  },
+  {
+    "name": "Baotou",
+    "coordinates": [
+      40.65621,
+      109.83454
+    ],
+    "type": "City",
+    "context": "China"
+  },
+  {
+    "name": "Bari",
+    "coordinates": [
+      41.125277777,
+      16.866666666
+    ],
+    "type": "City",
+    "context": "Italy"
+  },
+  {
+    "name": "Basseterre",
+    "coordinates": [
+      17.298333333,
+      -62.734166666
+    ],
+    "type": "City",
+    "context": "Saint Kitts And Nevis"
+  },
+  {
+    "name": "Baton Rouge",
+    "coordinates": [
+      30.4475,
+      -91.178611111
+    ],
+    "type": "City",
+    "context": "Louisiana, The United States"
+  },
+  {
+    "name": "Bauru",
+    "coordinates": [
+      -22.314722222,
+      -49.060555555
+    ],
+    "type": "City",
+    "context": "Brazil"
+  },
+  {
+    "name": "Beijing",
+    "coordinates": [
+      39.90403,
+      116.407526
+    ],
+    "type": "City",
+    "context": "China"
+  },
+  {
+    "name": "Beirut",
+    "coordinates": [
+      33.886944444,
+      35.513055555
+    ],
+    "type": "City",
+    "context": "Lebanon"
+  },
+  {
+    "name": "Belfast",
+    "coordinates": [
+      54.596388888,
+      -5.93
+    ],
+    "type": "City",
+    "context": "The United Kingdom"
+  },
+  {
+    "name": "Belgrade",
+    "coordinates": [
+      44.817777777,
+      20.456944444
+    ],
+    "type": "City",
+    "context": "Serbia"
+  },
+  {
+    "name": "Belmopan",
+    "coordinates": [
+      17.25,
+      -88.7675
+    ],
+    "type": "City",
+    "context": "Belize"
+  },
+  {
+    "name": "Belo Horizonte",
+    "coordinates": [
+      -19.928055555,
+      -43.941944444
+    ],
+    "type": "City",
+    "context": "Brazil"
+  },
+  {
+    "name": "Belém",
+    "coordinates": [
+      -1.455833333,
+      -48.503888888
+    ],
+    "type": "City",
+    "context": "Brazil"
+  },
+  {
+    "name": "Bengaluru",
+    "coordinates": [
+      12.9791198,
+      77.5912997
+    ],
+    "type": "City",
+    "context": "India"
+  },
+  {
+    "name": "Berkeley",
+    "coordinates": [
+      37.870277777,
+      -122.268055555
+    ],
+    "type": "City",
+    "context": "California, The United States"
+  },
+  {
+    "name": "Berlin",
+    "coordinates": [
+      52.516666666,
+      13.383333333
+    ],
+    "type": "City",
+    "context": "Germany"
+  },
+  {
+    "name": "Bern",
+    "coordinates": [
+      46.94798,
+      7.44743
+    ],
+    "type": "City",
+    "context": "Switzerland"
+  },
+  {
+    "name": "Betim",
+    "coordinates": [
+      -19.967777777,
+      -44.197777777
+    ],
+    "type": "City",
+    "context": "Brazil"
+  },
+  {
+    "name": "Bhopal",
+    "coordinates": [
+      23.25,
+      77.416666666
+    ],
+    "type": "City",
+    "context": "India"
+  },
+  {
+    "name": "Bhubaneswar",
+    "coordinates": [
+      20.264444444,
+      85.828055555
+    ],
+    "type": "City",
+    "context": "India"
+  },
+  {
+    "name": "Birmingham",
+    "coordinates": [
+      52.48,
+      -1.9025
+    ],
+    "type": "City",
+    "context": "The United Kingdom"
+  },
+  {
+    "name": "Bishkek",
+    "coordinates": [
+      42.866666666,
+      74.566666666
+    ],
+    "type": "City",
+    "context": "Kyrgyzstan"
+  },
+  {
+    "name": "Bismarck",
+    "coordinates": [
+      46.808333333,
+      -100.78375
+    ],
+    "type": "City",
+    "context": "North Dakota, The United States"
+  },
+  {
+    "name": "Bissau",
+    "coordinates": [
+      11.859166666,
+      -15.595555555
+    ],
+    "type": "City",
+    "context": "Guinea-Bissau"
+  },
+  {
+    "name": "Bloemfontein",
+    "coordinates": [
+      -29.1,
+      26.216666666
+    ],
+    "type": "City",
+    "context": "South Africa"
+  },
+  {
+    "name": "Blumenau",
+    "coordinates": [
+      -26.918888888,
+      -49.065833333
+    ],
+    "type": "City",
+    "context": "Brazil"
+  },
+  {
+    "name": "Boa Vista",
+    "coordinates": [
+      2.82,
+      -60.671944444
+    ],
+    "type": "City",
+    "context": "Roraima, Brazil"
+  },
+  {
+    "name": "Bogota",
+    "coordinates": [
+      40.8743,
+      -74.0297
+    ],
+    "type": "City",
+    "context": "New Jersey, The United States"
+  },
+  {
+    "name": "Boise",
+    "coordinates": [
+      43.613611111,
+      -116.237777777
+    ],
+    "type": "City",
+    "context": "Idaho, The United States"
+  },
+  {
+    "name": "Bologna",
+    "coordinates": [
+      44.493888888,
+      11.342777777
+    ],
+    "type": "City",
+    "context": "Italy"
+  },
+  {
+    "name": "Bordeaux",
+    "coordinates": [
+      44.837777777,
+      -0.579444444
+    ],
+    "type": "City",
+    "context": "France"
+  },
+  {
+    "name": "Boston",
+    "coordinates": [
+      42.360277777,
+      -71.057777777
+    ],
+    "type": "City",
+    "context": "The United States"
+  },
+  {
+    "name": "Brasília",
+    "coordinates": [
+      -15.793888888,
+      -47.882777777
+    ],
+    "type": "City",
+    "context": "Brazil"
+  },
+  {
+    "name": "Bratislava",
+    "coordinates": [
+      48.144722222,
+      17.112777777
+    ],
+    "type": "City",
+    "context": "Slovakia"
+  },
+  {
+    "name": "Brazzaville",
+    "coordinates": [
+      -4.269444444,
+      15.271111111
+    ],
+    "type": "City",
+    "context": "Republic Of The Congo"
+  },
+  {
+    "name": "Bridgetown",
+    "coordinates": [
+      13.0975,
+      -59.616666666
+    ],
+    "type": "City",
+    "context": "Barbados"
+  },
+  {
+    "name": "Brisbane",
+    "coordinates": [
+      -27.467777777,
+      153.027777777
+    ],
+    "type": "City",
+    "context": "Australia"
+  },
+  {
+    "name": "Bristol",
+    "coordinates": [
+      51.453611111,
+      -2.5975
+    ],
+    "type": "City",
+    "context": "The United Kingdom"
+  },
+  {
+    "name": "Brussels",
+    "coordinates": [
+      50.84668,
+      4.3525
+    ],
+    "type": "City",
+    "context": "Belgium"
+  },
+  {
+    "name": "Bucharest",
+    "coordinates": [
+      44.413361111,
+      26.097777777
+    ],
+    "type": "City",
+    "context": "Romania"
+  },
+  {
+    "name": "Budapest",
+    "coordinates": [
+      47.498333333,
+      19.040833333
+    ],
+    "type": "City",
+    "context": "Hungary"
+  },
+  {
+    "name": "Buenos Aires",
+    "coordinates": [
+      -34.599722222,
+      -58.381944444
+    ],
+    "type": "City",
+    "context": "Argentina"
+  },
+  {
+    "name": "Bujumbura",
+    "coordinates": [
+      -3.3825,
+      29.361111111
+    ],
+    "type": "City",
+    "context": "Burundi"
+  },
+  {
+    "name": "Bursa",
+    "coordinates": [
+      40.191330555,
+      29.080538888
+    ],
+    "type": "City",
+    "context": "Turkey"
+  },
+  {
+    "name": "Cagayan de Oro",
+    "coordinates": [
+      8.483333333,
+      124.65
+    ],
+    "type": "City",
+    "context": "Philippines"
+  },
+  {
+    "name": "Cairo",
+    "coordinates": [
+      30.044444444,
+      31.235833333
+    ],
+    "type": "City",
+    "context": "Egypt"
+  },
+  {
+    "name": "Calanda",
+    "coordinates": [
+      40.9394642,
+      -0.2315612
+    ],
+    "type": "City",
+    "context": "Spain, Spain"
+  },
+  {
+    "name": "Calgary",
+    "coordinates": [
+      51.05,
+      -114.066666666
+    ],
+    "type": "City",
+    "context": "Canada"
+  },
+  {
+    "name": "Campina Grande",
+    "coordinates": [
+      -7.230555555,
+      -35.881111111
+    ],
+    "type": "City",
+    "context": "Brazil"
+  },
+  {
+    "name": "Campinas",
+    "coordinates": [
+      -22.900913888,
+      -47.057294444
+    ],
+    "type": "City",
+    "context": "Brazil"
+  },
+  {
+    "name": "Campo Grande",
+    "coordinates": [
+      -20.468611111,
+      -54.622222222
+    ],
+    "type": "City",
+    "context": "Brazil"
+  },
+  {
+    "name": "Campo Mourão",
+    "coordinates": [
+      -24.045833333,
+      -52.382777777
+    ],
+    "type": "City",
+    "context": "Brazil"
+  },
+  {
+    "name": "Canberra",
+    "coordinates": [
+      -35.293055555,
+      149.126944444
+    ],
+    "type": "City",
+    "context": "Australia"
+  },
+  {
+    "name": "Canoas",
+    "coordinates": [
+      -29.92,
+      -51.18
+    ],
+    "type": "City",
+    "context": "Brazil"
+  },
+  {
+    "name": "Cape Town",
+    "coordinates": [
+      -33.925277777,
+      18.423888888
+    ],
+    "type": "City",
+    "context": "South Africa"
+  },
+  {
+    "name": "Caracas",
+    "coordinates": [
+      10.5,
+      -66.933333333
+    ],
+    "type": "City",
+    "context": "Venezuela"
+  },
+  {
+    "name": "Cardiff",
+    "coordinates": [
+      51.481666666,
+      -3.179166666
+    ],
+    "type": "City",
+    "context": "The United Kingdom"
+  },
+  {
+    "name": "Carson City",
+    "coordinates": [
+      39.160833333,
+      -119.753888888
+    ],
+    "type": "City",
+    "context": "Nevada, The United States"
+  },
+  {
+    "name": "Caruaru",
+    "coordinates": [
+      -8.282777777,
+      -35.975833333
+    ],
+    "type": "City",
+    "context": "Brazil"
+  },
+  {
+    "name": "Casablanca",
+    "coordinates": [
+      33.599166666,
+      -7.62
+    ],
+    "type": "City",
+    "context": "Morocco"
+  },
+  {
+    "name": "Cascavel",
+    "coordinates": [
+      -24.955833333,
+      -53.455
+    ],
+    "type": "City",
+    "context": "Brazil"
+  },
+  {
+    "name": "Castries",
+    "coordinates": [
+      14.016666666,
+      -60.983333333
+    ],
+    "type": "City",
+    "context": "Saint Lucia"
+  },
+  {
+    "name": "Caxias do Sul",
+    "coordinates": [
+      -29.167777777,
+      -51.178888888
+    ],
+    "type": "City",
+    "context": "Brazil"
+  },
+  {
+    "name": "Cebu City",
+    "coordinates": [
+      10.293,
+      123.902
+    ],
+    "type": "City",
+    "context": "Philippines"
+  },
+  {
+    "name": "Chandigarh",
+    "coordinates": [
+      30.735277777,
+      76.791111111
+    ],
+    "type": "City",
+    "context": "India"
+  },
+  {
+    "name": "Changchun",
+    "coordinates": [
+      43.88,
+      125.322777777
+    ],
+    "type": "City",
+    "context": "China"
+  },
+  {
+    "name": "Changsha",
+    "coordinates": [
+      28.19874,
+      112.97087
+    ],
+    "type": "City",
+    "context": "China"
+  },
+  {
+    "name": "Changzhou",
+    "coordinates": [
+      31.812166666,
+      119.969166666
+    ],
+    "type": "City",
+    "context": "China"
+  },
+  {
+    "name": "Chapecó",
+    "coordinates": [
+      -27.095833333,
+      -52.617777777
+    ],
+    "type": "City",
+    "context": "Brazil"
+  },
+  {
+    "name": "Charleston",
+    "coordinates": [
+      38.347222222,
+      -81.633333333
+    ],
+    "type": "City",
+    "context": "West Virginia, The United States"
+  },
+  {
+    "name": "Charlotte",
+    "coordinates": [
+      35.226944444,
+      -80.843333333
+    ],
+    "type": "City",
+    "context": "North Carolina, The United States"
+  },
+  {
+    "name": "Chelyabinsk",
+    "coordinates": [
+      55.15,
+      61.4
+    ],
+    "type": "City",
+    "context": "Russia"
+  },
+  {
+    "name": "Chengdu",
+    "coordinates": [
+      30.66,
+      104.063333333
+    ],
+    "type": "City",
+    "context": "China"
+  },
+  {
+    "name": "Chennai",
+    "coordinates": [
+      13.0825,
+      80.275
+    ],
+    "type": "City",
+    "context": "India"
+  },
+  {
+    "name": "Cheyenne",
+    "coordinates": [
+      41.145555555,
+      -104.801944444
+    ],
+    "type": "City",
+    "context": "Wyoming, The United States"
+  },
+  {
+    "name": "Chiayi City",
+    "coordinates": [
+      23.48,
+      120.449722222
+    ],
+    "type": "City",
+    "context": "Taiwan"
+  },
+  {
+    "name": "Chicago",
+    "coordinates": [
+      41.85003,
+      -87.65005
+    ],
+    "type": "City",
+    "context": "The United States"
+  },
+  {
+    "name": "Chișinău",
+    "coordinates": [
+      47.022777777,
+      28.835277777
+    ],
+    "type": "City",
+    "context": "Moldova"
+  },
+  {
+    "name": "Chongqing",
+    "coordinates": [
+      29.55,
+      106.506944444
+    ],
+    "type": "City",
+    "context": "China"
+  },
+  {
+    "name": "Chula Vista",
+    "coordinates": [
+      32.627777777,
+      -117.048055555
+    ],
+    "type": "City",
+    "context": "California, The United States"
+  },
+  {
+    "name": "Cincinnati",
+    "coordinates": [
+      39.1,
+      -84.5125
+    ],
+    "type": "City",
+    "context": "The United States"
+  },
+  {
+    "name": "Cleveland",
+    "coordinates": [
+      41.482222222,
+      -81.669722222
+    ],
+    "type": "City",
+    "context": "The United States"
+  },
+  {
+    "name": "Coimbatore",
+    "coordinates": [
+      11.0,
+      76.966666666
+    ],
+    "type": "City",
+    "context": "India"
+  },
+  {
+    "name": "Cologne",
+    "coordinates": [
+      50.942222222,
+      6.957777777
+    ],
+    "type": "City",
+    "context": "Germany"
+  },
+  {
+    "name": "Colombo",
+    "coordinates": [
+      6.916666666,
+      79.833333333
+    ],
+    "type": "City",
+    "context": "Sri Lanka"
+  },
+  {
+    "name": "Columbia",
+    "coordinates": [
+      34.000555555,
+      -81.044166666
+    ],
+    "type": "City",
+    "context": "South Carolina, The United States"
+  },
+  {
+    "name": "Columbus",
+    "coordinates": [
+      39.962222222,
+      -83.000555555
+    ],
+    "type": "City",
+    "context": "Ohio, The United States"
+  },
+  {
+    "name": "Conakry",
+    "coordinates": [
+      9.509166666,
+      -13.712222222
+    ],
+    "type": "City",
+    "context": "Guinea"
+  },
+  {
+    "name": "Concord",
+    "coordinates": [
+      37.978055555,
+      -122.031111111
+    ],
+    "type": "City",
+    "context": "California, The United States"
+  },
+  {
+    "name": "Concord",
+    "coordinates": [
+      43.206666666,
+      -71.538055555
+    ],
+    "type": "City",
+    "context": "New Hampshire, The United States"
+  },
+  {
+    "name": "Contagem",
+    "coordinates": [
+      -19.931944444,
+      -44.053888888
+    ],
+    "type": "City",
+    "context": "Brazil"
+  },
+  {
+    "name": "Copenhagen",
+    "coordinates": [
+      55.676111111,
+      12.568888888
+    ],
+    "type": "City",
+    "context": "Denmark"
+  },
+  {
+    "name": "Copertino",
+    "coordinates": [
+      40.266666666,
+      18.05
+    ],
+    "type": "City",
+    "context": "Italy"
+  },
+  {
+    "name": "Corinth",
+    "coordinates": [
+      37.938611111,
+      22.927222222
+    ],
+    "type": "City",
+    "context": "Greece"
+  },
+  {
+    "name": "Cotonou",
+    "coordinates": [
+      6.366666666,
+      2.416666666
+    ],
+    "type": "City",
+    "context": "Benin"
+  },
+  {
+    "name": "Criciúma",
+    "coordinates": [
+      -28.6775,
+      -49.369722222
+    ],
+    "type": "City",
+    "context": "Brazil"
+  },
+  {
+    "name": "Cuiabá",
+    "coordinates": [
+      -15.595833333,
+      -56.096944444
+    ],
+    "type": "City",
+    "context": "Brazil"
+  },
+  {
+    "name": "Cupertino",
+    "coordinates": [
+      37.3175,
+      -122.041944444
+    ],
+    "type": "City",
+    "context": "California, The United States"
+  },
+  {
+    "name": "Curitiba",
+    "coordinates": [
+      -25.429722222,
+      -49.271944444
+    ],
+    "type": "City",
+    "context": "Brazil"
+  },
+  {
+    "name": "Córdoba",
+    "coordinates": [
+      -31.416666666,
+      -64.183333333
+    ],
+    "type": "City",
+    "context": "Argentina, Argentina"
+  },
+  {
+    "name": "Cần Thơ",
+    "coordinates": [
+      10.033333333,
+      105.783333333
+    ],
+    "type": "City",
+    "context": "Vietnam"
+  },
+  {
+    "name": "Da Nang",
+    "coordinates": [
+      16.069444444,
+      108.209722222
+    ],
+    "type": "City",
+    "context": "Vietnam"
+  },
+  {
+    "name": "Dakar",
+    "coordinates": [
+      14.731944444,
+      -17.457222222
+    ],
+    "type": "City",
+    "context": "Senegal"
+  },
+  {
+    "name": "Dali",
+    "coordinates": [
+      35.02399982,
+      33.42258883
+    ],
+    "type": "City",
+    "context": "Cyprus, Cyprus"
+  },
+  {
+    "name": "Dalian",
+    "coordinates": [
+      38.9,
+      121.6
+    ],
+    "type": "City",
+    "context": "China"
+  },
+  {
+    "name": "Dallas",
+    "coordinates": [
+      32.779166666,
+      -96.808888888
+    ],
+    "type": "City",
+    "context": "The United States"
+  },
+  {
+    "name": "Daly City",
+    "coordinates": [
+      37.686388888,
+      -122.468333333
+    ],
+    "type": "City",
+    "context": "California, The United States"
+  },
+  {
+    "name": "Damascus",
+    "coordinates": [
+      33.513055555,
+      36.291944444
+    ],
+    "type": "City",
+    "context": "Syria"
+  },
+  {
+    "name": "Davao City",
+    "coordinates": [
+      7.066666666,
+      125.6
+    ],
+    "type": "City",
+    "context": "Philippines"
+  },
+  {
+    "name": "Dehradun",
+    "coordinates": [
+      30.318,
+      78.029
+    ],
+    "type": "City",
+    "context": "India"
+  },
+  {
+    "name": "Delhi",
+    "coordinates": [
+      28.666666666,
+      77.216666666
+    ],
+    "type": "City",
+    "context": "India"
+  },
+  {
+    "name": "Denpasar",
+    "coordinates": [
+      -8.671666666,
+      115.233888888
+    ],
+    "type": "City",
+    "context": "Indonesia"
+  },
+  {
+    "name": "Denver",
+    "coordinates": [
+      39.739166666,
+      -104.984722222
+    ],
+    "type": "City",
+    "context": "The United States"
+  },
+  {
+    "name": "Des Moines",
+    "coordinates": [
+      41.590833333,
+      -93.620833333
+    ],
+    "type": "City",
+    "context": "Iowa, The United States"
+  },
+  {
+    "name": "Detroit",
+    "coordinates": [
+      42.331666666,
+      -83.0475
+    ],
+    "type": "City",
+    "context": "The United States"
+  },
+  {
+    "name": "Dhaka",
+    "coordinates": [
+      23.728888888,
+      90.394444444
+    ],
+    "type": "City",
+    "context": "Bangladesh"
+  },
+  {
+    "name": "Dili",
+    "coordinates": [
+      -8.553611111,
+      125.578333333
+    ],
+    "type": "City",
+    "context": "East Timor"
+  },
+  {
+    "name": "Dispur",
+    "coordinates": [
+      26.15,
+      91.77
+    ],
+    "type": "City",
+    "context": "India"
+  },
+  {
+    "name": "Divinópolis",
+    "coordinates": [
+      -20.138888888,
+      -44.883888888
+    ],
+    "type": "City",
+    "context": "Brazil"
+  },
+  {
+    "name": "Djibouti",
+    "coordinates": [
+      11.595,
+      43.148055555
+    ],
+    "type": "City",
+    "context": "Djibouti"
+  },
+  {
+    "name": "Dnipro",
+    "coordinates": [
+      48.4675,
+      35.04
+    ],
+    "type": "City",
+    "context": "Ukraine"
+  },
+  {
+    "name": "Dodoma",
+    "coordinates": [
+      -6.1835,
+      35.746
+    ],
+    "type": "City",
+    "context": "Tanzania"
+  },
+  {
+    "name": "Doha",
+    "coordinates": [
+      29.31571,
+      47.799192
+    ],
+    "type": "City",
+    "context": "Kuwait"
+  },
+  {
+    "name": "Dongguan",
+    "coordinates": [
+      23.04749,
+      113.74928
+    ],
+    "type": "City",
+    "context": "China"
+  },
+  {
+    "name": "Dover",
+    "coordinates": [
+      39.161662,
+      -75.525709
+    ],
+    "type": "City",
+    "context": "Delaware, The United States"
+  },
+  {
+    "name": "Dublin",
+    "coordinates": [
+      53.349722222,
+      -6.260277777
+    ],
+    "type": "City",
+    "context": "Ireland"
+  },
+  {
+    "name": "Durban",
+    "coordinates": [
+      -29.858333333,
+      31.025
+    ],
+    "type": "City",
+    "context": "South Africa"
+  },
+  {
+    "name": "Dushanbe",
+    "coordinates": [
+      38.573055555,
+      68.786388888
+    ],
+    "type": "City",
+    "context": "Tajikistan"
+  },
+  {
+    "name": "Edinburgh",
+    "coordinates": [
+      55.953333333,
+      -3.189166666
+    ],
+    "type": "City",
+    "context": "The United Kingdom"
+  },
+  {
+    "name": "Edmonton",
+    "coordinates": [
+      53.533333333,
+      -113.5
+    ],
+    "type": "City",
+    "context": "Canada"
+  },
+  {
+    "name": "El Paso",
+    "coordinates": [
+      31.759166666,
+      -106.488611111
+    ],
+    "type": "City",
+    "context": "Texas, The United States"
+  },
+  {
+    "name": "Feira de Santana",
+    "coordinates": [
+      -12.266944444,
+      -38.966944444
+    ],
+    "type": "City",
+    "context": "Brazil"
+  },
+  {
+    "name": "Florence",
+    "coordinates": [
+      43.771388888,
+      11.254166666
+    ],
+    "type": "City",
+    "context": "Italy"
+  },
+  {
+    "name": "Florianópolis",
+    "coordinates": [
+      -27.593280555,
+      -48.553047222
+    ],
+    "type": "City",
+    "context": "Brazil"
+  },
+  {
+    "name": "Fontana",
+    "coordinates": [
+      34.1,
+      -117.466666666
+    ],
+    "type": "City",
+    "context": "California, The United States"
+  },
+  {
+    "name": "Fort Worth",
+    "coordinates": [
+      32.756388888,
+      -97.3325
+    ],
+    "type": "City",
+    "context": "Texas, The United States"
+  },
+  {
+    "name": "Fortaleza",
+    "coordinates": [
+      -3.7275,
+      -38.5275
+    ],
+    "type": "City",
+    "context": "Brazil"
+  },
+  {
+    "name": "Foshan",
+    "coordinates": [
+      23.029167,
+      113.105556
+    ],
+    "type": "City",
+    "context": "China"
+  },
+  {
+    "name": "Foz do Iguaçu",
+    "coordinates": [
+      -25.54,
+      -54.5875
+    ],
+    "type": "City",
+    "context": "Brazil"
+  },
+  {
+    "name": "Francisco Beltrão",
+    "coordinates": [
+      -26.080833333,
+      -53.055
+    ],
+    "type": "City",
+    "context": "Brazil"
+  },
+  {
+    "name": "Frankfort",
+    "coordinates": [
+      38.197,
+      -84.863
+    ],
+    "type": "City",
+    "context": "Kentucky, The United States"
+  },
+  {
+    "name": "Frankfurt",
+    "coordinates": [
+      50.110555555,
+      8.682222222
+    ],
+    "type": "City",
+    "context": "Germany"
+  },
+  {
+    "name": "Freetown",
+    "coordinates": [
+      8.483333333,
+      -13.233055555
+    ],
+    "type": "City",
+    "context": "Sierra Leone"
+  },
+  {
+    "name": "Fremont",
+    "coordinates": [
+      37.543055555,
+      -121.982777777
+    ],
+    "type": "City",
+    "context": "California, The United States"
+  },
+  {
+    "name": "Fresno",
+    "coordinates": [
+      36.781666666,
+      -119.792222222
+    ],
+    "type": "City",
+    "context": "California, The United States"
+  },
+  {
+    "name": "Fukuoka",
+    "coordinates": [
+      33.59,
+      130.401666666
+    ],
+    "type": "City",
+    "context": "Japan"
+  },
+  {
+    "name": "Funafuti",
+    "coordinates": [
+      -8.504777777,
+      179.117361111
+    ],
+    "type": "City",
+    "context": "Tuvalu"
+  },
+  {
+    "name": "Fuzhou",
+    "coordinates": [
+      26.076944444,
+      119.291666666
+    ],
+    "type": "City",
+    "context": "China"
+  },
+  {
+    "name": "Fátima",
+    "coordinates": [
+      39.625555555,
+      -8.665833333
+    ],
+    "type": "City",
+    "context": "Portugal, Portugal"
+  },
+  {
+    "name": "Gaborone",
+    "coordinates": [
+      -24.656944444,
+      25.908611111
+    ],
+    "type": "City",
+    "context": "Botswana"
+  },
+  {
+    "name": "Gandhinagar",
+    "coordinates": [
+      23.223,
+      72.65
+    ],
+    "type": "City",
+    "context": "India"
+  },
+  {
+    "name": "Gangtok",
+    "coordinates": [
+      27.33,
+      88.62
+    ],
+    "type": "City",
+    "context": "India"
+  },
+  {
+    "name": "Gary",
+    "coordinates": [
+      41.580833333,
+      -87.345555555
+    ],
+    "type": "City",
+    "context": "Indiana, The United States"
+  },
+  {
+    "name": "Gdańsk",
+    "coordinates": [
+      54.3482907,
+      18.6540233
+    ],
+    "type": "City",
+    "context": "Poland"
+  },
+  {
+    "name": "Genoa",
+    "coordinates": [
+      44.407186111,
+      8.933983333
+    ],
+    "type": "City",
+    "context": "Italy"
+  },
+  {
+    "name": "Georgetown",
+    "coordinates": [
+      6.80448,
+      -58.15527
+    ],
+    "type": "City",
+    "context": "Guyana, Guyana"
+  },
+  {
+    "name": "Gitega",
+    "coordinates": [
+      -3.428333333,
+      29.925
+    ],
+    "type": "City",
+    "context": "Burundi"
+  },
+  {
+    "name": "Giza",
+    "coordinates": [
+      29.987,
+      31.2118
+    ],
+    "type": "City",
+    "context": "Egypt"
+  },
+  {
+    "name": "Glasgow",
+    "coordinates": [
+      55.861111111,
+      -4.25
+    ],
+    "type": "City",
+    "context": "The United Kingdom"
+  },
+  {
+    "name": "Glendale",
+    "coordinates": [
+      34.170833333,
+      -118.25
+    ],
+    "type": "City",
+    "context": "California, The United States"
+  },
+  {
+    "name": "Goiânia",
+    "coordinates": [
+      -16.680555555,
+      -49.256388888
+    ],
+    "type": "City",
+    "context": "Brazil"
+  },
+  {
+    "name": "Governador Valadares",
+    "coordinates": [
+      -18.850833333,
+      -41.948888888
+    ],
+    "type": "City",
+    "context": "Minas Gerais, Brazil"
+  },
+  {
+    "name": "Guadalajara",
+    "coordinates": [
+      20.676666666,
+      -103.3475
+    ],
+    "type": "City",
+    "context": "Mexico"
+  },
+  {
+    "name": "Guangzhou",
+    "coordinates": [
+      23.13,
+      113.26
+    ],
+    "type": "City",
+    "context": "China"
+  },
+  {
+    "name": "Guarapuava",
+    "coordinates": [
+      -25.395,
+      -51.457777777
+    ],
+    "type": "City",
+    "context": "Brazil"
+  },
+  {
+    "name": "Guarulhos",
+    "coordinates": [
+      -23.466666666,
+      -46.533333333
+    ],
+    "type": "City",
+    "context": "Brazil"
+  },
+  {
+    "name": "Guatemala City",
+    "coordinates": [
+      14.609861111,
+      -90.52525
+    ],
+    "type": "City",
+    "context": "Guatemala"
+  },
+  {
+    "name": "Guilin",
+    "coordinates": [
+      25.266666666,
+      110.283333333
+    ],
+    "type": "City",
+    "context": "China"
+  },
+  {
+    "name": "Guiyang",
+    "coordinates": [
+      26.579444444,
+      106.707777777
+    ],
+    "type": "City",
+    "context": "China"
+  },
+  {
+    "name": "Guwahati",
+    "coordinates": [
+      26.1805876,
+      91.750238
+    ],
+    "type": "City",
+    "context": "India"
+  },
+  {
+    "name": "Gwalior",
+    "coordinates": [
+      26.2125,
+      78.1775
+    ],
+    "type": "City",
+    "context": "India"
+  },
+  {
+    "name": "Haikou",
+    "coordinates": [
+      20.02,
+      110.32
+    ],
+    "type": "City",
+    "context": "China"
+  },
+  {
+    "name": "Haiphong",
+    "coordinates": [
+      20.8,
+      106.666666666
+    ],
+    "type": "City",
+    "context": "Vietnam"
+  },
+  {
+    "name": "Halifax",
+    "coordinates": [
+      44.647777777,
+      -63.571388888
+    ],
+    "type": "City",
+    "context": "Nova Scotia, Canada"
+  },
+  {
+    "name": "Hamburg",
+    "coordinates": [
+      53.55,
+      10.0
+    ],
+    "type": "City",
+    "context": "Germany"
+  },
+  {
+    "name": "Hangzhou",
+    "coordinates": [
+      30.25,
+      120.1675
+    ],
+    "type": "City",
+    "context": "China"
+  },
+  {
+    "name": "Hanoi",
+    "coordinates": [
+      21.0245,
+      105.84117
+    ],
+    "type": "City",
+    "context": "Vietnam"
+  },
+  {
+    "name": "Harare",
+    "coordinates": [
+      -17.829166666,
+      31.052222222
+    ],
+    "type": "City",
+    "context": "Zimbabwe"
+  },
+  {
+    "name": "Harbin",
+    "coordinates": [
+      45.75,
+      126.633333333
+    ],
+    "type": "City",
+    "context": "China"
+  },
+  {
+    "name": "Harrisburg",
+    "coordinates": [
+      40.264554871,
+      -76.883381676
+    ],
+    "type": "City",
+    "context": "Pennsylvania, The United States"
+  },
+  {
+    "name": "Hartford",
+    "coordinates": [
+      41.763333333,
+      -72.685
+    ],
+    "type": "City",
+    "context": "Connecticut, The United States"
+  },
+  {
+    "name": "Havana",
+    "coordinates": [
+      23.136666666,
+      -82.358888888
+    ],
+    "type": "City",
+    "context": "Cuba"
+  },
+  {
+    "name": "Hayward",
+    "coordinates": [
+      37.668888888,
+      -122.080833333
+    ],
+    "type": "City",
+    "context": "California, The United States"
+  },
+  {
+    "name": "Hefei",
+    "coordinates": [
+      31.86389,
+      117.28083
+    ],
+    "type": "City",
+    "context": "China"
+  },
+  {
+    "name": "Helena",
+    "coordinates": [
+      46.592777777,
+      -112.035
+    ],
+    "type": "City",
+    "context": "Montana, The United States"
+  },
+  {
+    "name": "Helsinki",
+    "coordinates": [
+      60.170833333,
+      24.9375
+    ],
+    "type": "City",
+    "context": "Finland"
+  },
+  {
+    "name": "Hiroshima",
+    "coordinates": [
+      34.38525,
+      132.455305555
+    ],
+    "type": "City",
+    "context": "Japan"
+  },
+  {
+    "name": "Ho Chi Minh City",
+    "coordinates": [
+      10.775555555,
+      106.701944444
+    ],
+    "type": "City",
+    "context": "Vietnam"
+  },
+  {
+    "name": "Hohhot",
+    "coordinates": [
+      40.81507,
+      111.66293
+    ],
+    "type": "City",
+    "context": "China"
+  },
+  {
+    "name": "Honiara",
+    "coordinates": [
+      -9.433333,
+      159.95
+    ],
+    "type": "City",
+    "context": "Solomon Islands"
+  },
+  {
+    "name": "Honolulu",
+    "coordinates": [
+      21.304694444,
+      -157.857194444
+    ],
+    "type": "City",
+    "context": "Hawaii"
+  },
+  {
+    "name": "Houston",
+    "coordinates": [
+      29.762777777,
+      -95.383055555
+    ],
+    "type": "City",
+    "context": "The United States"
+  },
+  {
+    "name": "Hsinchu City",
+    "coordinates": [
+      24.804722222,
+      120.971388888
+    ],
+    "type": "City",
+    "context": "Taiwan"
+  },
+  {
+    "name": "Hualien City",
+    "coordinates": [
+      23.972222222,
+      121.606388888
+    ],
+    "type": "City",
+    "context": "Taiwan"
+  },
+  {
+    "name": "Huế",
+    "coordinates": [
+      16.456111111,
+      107.576388888
+    ],
+    "type": "City",
+    "context": "Vietnam"
+  },
+  {
+    "name": "Hyderabad",
+    "coordinates": [
+      17.361666666,
+      78.474722222
+    ],
+    "type": "City",
+    "context": "India"
+  },
+  {
+    "name": "Iloilo City",
+    "coordinates": [
+      10.716666666,
+      122.566666666
+    ],
+    "type": "City",
+    "context": "Philippines"
+  },
+  {
+    "name": "Imperatriz",
+    "coordinates": [
+      -5.525833333,
+      -47.475833333
+    ],
+    "type": "City",
+    "context": "Brazil"
+  },
+  {
+    "name": "Imphal",
+    "coordinates": [
+      24.82,
+      93.95
+    ],
+    "type": "City",
+    "context": "India"
+  },
+  {
+    "name": "Indianapolis",
+    "coordinates": [
+      39.768611111,
+      -86.158055555
+    ],
+    "type": "City",
+    "context": "The United States"
+  },
+  {
+    "name": "Indore",
+    "coordinates": [
+      22.720555555,
+      75.847222222
+    ],
+    "type": "City",
+    "context": "India"
+  },
+  {
+    "name": "Ipatinga",
+    "coordinates": [
+      -19.467777777,
+      -42.536944444
+    ],
+    "type": "City",
+    "context": "Brazil"
+  },
+  {
+    "name": "Irvine",
+    "coordinates": [
+      33.684166666,
+      -117.7925
+    ],
+    "type": "City",
+    "context": "California, The United States"
+  },
+  {
+    "name": "Isfahan",
+    "coordinates": [
+      32.6525,
+      51.674722222
+    ],
+    "type": "City",
+    "context": "Iran"
+  },
+  {
+    "name": "Islamabad",
+    "coordinates": [
+      33.698888888,
+      73.036944444
+    ],
+    "type": "City",
+    "context": "Pakistan"
+  },
+  {
+    "name": "Istanbul",
+    "coordinates": [
+      41.01,
+      28.960277777
+    ],
+    "type": "City",
+    "context": "Turkey"
+  },
+  {
+    "name": "Itajaí",
+    "coordinates": [
+      -26.907777777,
+      -48.661944444
+    ],
+    "type": "City",
+    "context": "Brazil"
+  },
+  {
+    "name": "Itanagar",
+    "coordinates": [
+      27.1,
+      93.62
+    ],
+    "type": "City",
+    "context": "India"
+  },
+  {
+    "name": "Itumbiara",
+    "coordinates": [
+      -18.42,
+      -49.217777777
+    ],
+    "type": "City",
+    "context": "Brazil"
+  },
+  {
+    "name": "İzmir",
+    "coordinates": [
+      38.41273,
+      27.13838
+    ],
+    "type": "City",
+    "context": "Turkey"
+  },
+  {
+    "name": "İznik",
+    "coordinates": [
+      40.428888888,
+      29.719444444
+    ],
+    "type": "City",
+    "context": "Turkey"
+  },
+  {
+    "name": "Jabalpur",
+    "coordinates": [
+      23.166666666,
+      79.933333333
+    ],
+    "type": "City",
+    "context": "India"
+  },
+  {
+    "name": "Jackson",
+    "coordinates": [
+      32.298888888,
+      -90.184722222
+    ],
+    "type": "City",
+    "context": "Mississippi, The United States"
+  },
+  {
+    "name": "Jacksonville",
+    "coordinates": [
+      30.316666666,
+      -81.65
+    ],
+    "type": "City",
+    "context": "Florida, The United States"
+  },
+  {
+    "name": "Jaipur",
+    "coordinates": [
+      26.916666666,
+      75.866666666
+    ],
+    "type": "City",
+    "context": "India"
+  },
+  {
+    "name": "Jakarta",
+    "coordinates": [
+      -6.175,
+      106.8275
+    ],
+    "type": "City",
+    "context": "Indonesia"
+  },
+  {
+    "name": "Jalandhar",
+    "coordinates": [
+      31.325555555,
+      75.579166666
+    ],
+    "type": "City",
+    "context": "India"
+  },
+  {
+    "name": "Jamshedpur",
+    "coordinates": [
+      22.8,
+      86.183333333
+    ],
+    "type": "City",
+    "context": "India"
+  },
+  {
+    "name": "Jefferson City",
+    "coordinates": [
+      38.576666666,
+      -92.173611111
+    ],
+    "type": "City",
+    "context": "Missouri, The United States"
+  },
+  {
+    "name": "Jerusalem",
+    "coordinates": [
+      31.778888888,
+      35.225555555
+    ],
+    "type": "City",
+    "context": "Israel"
+  },
+  {
+    "name": "Jiaxing",
+    "coordinates": [
+      30.7522,
+      120.75
+    ],
+    "type": "City",
+    "context": "China"
+  },
+  {
+    "name": "Jinan",
+    "coordinates": [
+      36.666666666,
+      116.983333333
+    ],
+    "type": "City",
+    "context": "China"
+  },
+  {
+    "name": "Jinhua",
+    "coordinates": [
+      29.10462,
+      119.64937
+    ],
+    "type": "City",
+    "context": "China"
+  },
+  {
+    "name": "Johannesburg",
+    "coordinates": [
+      -26.204361111,
+      28.041638888
+    ],
+    "type": "City",
+    "context": "South Africa"
+  },
+  {
+    "name": "Joinville",
+    "coordinates": [
+      -26.303888888,
+      -48.845833333
+    ],
+    "type": "City",
+    "context": "Brazil"
+  },
+  {
+    "name": "João Pessoa",
+    "coordinates": [
+      -7.12,
+      -34.88
+    ],
+    "type": "City",
+    "context": "Paraíba, Brazil"
+  },
+  {
+    "name": "Juazeiro do Norte",
+    "coordinates": [
+      -7.212777777,
+      -39.315
+    ],
+    "type": "City",
+    "context": "Brazil"
+  },
+  {
+    "name": "Juba",
+    "coordinates": [
+      4.85,
+      31.6
+    ],
+    "type": "City",
+    "context": "South Sudan"
+  },
+  {
+    "name": "Juiz de Fora",
+    "coordinates": [
+      -21.75,
+      -43.35
+    ],
+    "type": "City",
+    "context": "Brazil"
+  },
+  {
+    "name": "Jundiaí",
+    "coordinates": [
+      -23.186388888,
+      -46.884166666
+    ],
+    "type": "City",
+    "context": "Brazil"
+  },
+  {
+    "name": "Juneau",
+    "coordinates": [
+      58.30194,
+      -134.41972
+    ],
+    "type": "City",
+    "context": "Alaska, Alaska"
+  },
+  {
+    "name": "Kabul",
+    "coordinates": [
+      34.532777777,
+      69.165833333
+    ],
+    "type": "City",
+    "context": "Afghanistan"
+  },
+  {
+    "name": "Kadıköy",
+    "coordinates": [
+      40.986944444,
+      29.036666666
+    ],
+    "type": "City",
+    "context": "Turkey"
+  },
+  {
+    "name": "Kaifeng",
+    "coordinates": [
+      34.795,
+      114.345
+    ],
+    "type": "City",
+    "context": "China"
+  },
+  {
+    "name": "Kampala",
+    "coordinates": [
+      0.313611111,
+      32.581111111
+    ],
+    "type": "City",
+    "context": "Uganda"
+  },
+  {
+    "name": "Kano",
+    "coordinates": [
+      12.0,
+      8.516666666
+    ],
+    "type": "City",
+    "context": "Nigeria"
+  },
+  {
+    "name": "Kanpur",
+    "coordinates": [
+      26.4725,
+      80.331111111
+    ],
+    "type": "City",
+    "context": "India"
+  },
+  {
+    "name": "Kansas City",
+    "coordinates": [
+      39.05,
+      -94.583333333
+    ],
+    "type": "City",
+    "context": "Missouri, The United States"
+  },
+  {
+    "name": "Kaohsiung",
+    "coordinates": [
+      22.615,
+      120.2975
+    ],
+    "type": "City",
+    "context": "Taiwan"
+  },
+  {
+    "name": "Karachi",
+    "coordinates": [
+      24.86,
+      67.01
+    ],
+    "type": "City",
+    "context": "Pakistan"
+  },
+  {
+    "name": "Karaganda",
+    "coordinates": [
+      49.8,
+      73.116666666
+    ],
+    "type": "City",
+    "context": "Kazakhstan"
+  },
+  {
+    "name": "Kashgar",
+    "coordinates": [
+      39.45,
+      75.983333
+    ],
+    "type": "City",
+    "context": "China"
+  },
+  {
+    "name": "Kathmandu",
+    "coordinates": [
+      27.71,
+      85.32
+    ],
+    "type": "City",
+    "context": "Nepal"
+  },
+  {
+    "name": "Kawasaki",
+    "coordinates": [
+      35.530888888,
+      139.703
+    ],
+    "type": "City",
+    "context": "Kanagawa, Japan"
+  },
+  {
+    "name": "Kazan",
+    "coordinates": [
+      55.790833333,
+      49.114444444
+    ],
+    "type": "City",
+    "context": "Russia"
+  },
+  {
+    "name": "Keelung",
+    "coordinates": [
+      25.12825,
+      121.7419
+    ],
+    "type": "City",
+    "context": "Taiwan"
+  },
+  {
+    "name": "Kharkiv",
+    "coordinates": [
+      49.9925,
+      36.231111111
+    ],
+    "type": "City",
+    "context": "Ukraine"
+  },
+  {
+    "name": "Khartoum",
+    "coordinates": [
+      15.60308,
+      32.52654
+    ],
+    "type": "City",
+    "context": "Sudan"
+  },
+  {
+    "name": "Kigali",
+    "coordinates": [
+      -1.953611111,
+      30.060555555
+    ],
+    "type": "City",
+    "context": "Rwanda"
+  },
+  {
+    "name": "Kingston",
+    "coordinates": [
+      17.971388888,
+      -76.793055555
+    ],
+    "type": "City",
+    "context": "Jamaica, Jamaica"
+  },
+  {
+    "name": "Kingstown",
+    "coordinates": [
+      13.15527,
+      -61.22742
+    ],
+    "type": "City",
+    "context": "Saint Vincent And The Grenadines"
+  },
+  {
+    "name": "Kinshasa",
+    "coordinates": [
+      -4.321944444,
+      15.311944444
+    ],
+    "type": "City",
+    "context": "Democratic Republic Of The Congo"
+  },
+  {
+    "name": "Kitakyushu",
+    "coordinates": [
+      33.883416666,
+      130.875194444
+    ],
+    "type": "City",
+    "context": "Japan"
+  },
+  {
+    "name": "Kobe",
+    "coordinates": [
+      34.690166666,
+      135.195444444
+    ],
+    "type": "City",
+    "context": "Japan"
+  },
+  {
+    "name": "Kochi",
+    "coordinates": [
+      9.966666666,
+      76.283333333
+    ],
+    "type": "City",
+    "context": "India"
+  },
+  {
+    "name": "Kohima",
+    "coordinates": [
+      25.666666666,
+      94.119444444
+    ],
+    "type": "City",
+    "context": "India"
+  },
+  {
+    "name": "Kolkata",
+    "coordinates": [
+      22.5726723,
+      88.3638815
+    ],
+    "type": "City",
+    "context": "India"
+  },
+  {
+    "name": "Koror",
+    "coordinates": [
+      7.34333,
+      134.48042
+    ],
+    "type": "City",
+    "context": "Palau"
+  },
+  {
+    "name": "Kozhikode",
+    "coordinates": [
+      11.247777777,
+      75.780277777
+    ],
+    "type": "City",
+    "context": "India"
+  },
+  {
+    "name": "Kraków",
+    "coordinates": [
+      50.061388888,
+      19.937222222
+    ],
+    "type": "City",
+    "context": "Poland"
+  },
+  {
+    "name": "Krasnoyarsk",
+    "coordinates": [
+      56.008888888,
+      92.871944444
+    ],
+    "type": "City",
+    "context": "Russia"
+  },
+  {
+    "name": "Kuala Lumpur",
+    "coordinates": [
+      3.147777777,
+      101.695277777
+    ],
+    "type": "City",
+    "context": "Malaysia"
+  },
+  {
+    "name": "Kumamoto",
+    "coordinates": [
+      32.803,
+      130.707861111
+    ],
+    "type": "City",
+    "context": "Japan"
+  },
+  {
+    "name": "Kunming",
+    "coordinates": [
+      25.043333333,
+      102.706111111
+    ],
+    "type": "City",
+    "context": "China"
+  },
+  {
+    "name": "Kuwait City",
+    "coordinates": [
+      29.375,
+      47.98
+    ],
+    "type": "City",
+    "context": "Kuwait"
+  },
+  {
+    "name": "Kyiv",
+    "coordinates": [
+      50.45,
+      30.523611111
+    ],
+    "type": "City",
+    "context": "Ukraine"
+  },
+  {
+    "name": "Kyoto",
+    "coordinates": [
+      35.011611111,
+      135.768111111
+    ],
+    "type": "City",
+    "context": "Japan"
+  },
+  {
+    "name": "La Paz",
+    "coordinates": [
+      -16.495833333,
+      -68.133333333
+    ],
+    "type": "City",
+    "context": "Bolivia"
+  },
+  {
+    "name": "La Plata",
+    "coordinates": [
+      -34.933333333,
+      -57.95
+    ],
+    "type": "City",
+    "context": "Argentina"
+  },
+  {
+    "name": "Lagos",
+    "coordinates": [
+      6.45,
+      3.4
+    ],
+    "type": "City",
+    "context": "Nigeria"
+  },
+  {
+    "name": "Lahore",
+    "coordinates": [
+      31.549722222,
+      74.343611111
+    ],
+    "type": "City",
+    "context": "Pakistan"
+  },
+  {
+    "name": "Lanciano",
+    "coordinates": [
+      42.231211111,
+      14.390469444
+    ],
+    "type": "City",
+    "context": "Italy"
+  },
+  {
+    "name": "Lansing",
+    "coordinates": [
+      42.7335,
+      -84.5467
+    ],
+    "type": "City",
+    "context": "Michigan, The United States"
+  },
+  {
+    "name": "Lanzhou",
+    "coordinates": [
+      36.06171,
+      103.83177
+    ],
+    "type": "City",
+    "context": "China"
+  },
+  {
+    "name": "Las Vegas",
+    "coordinates": [
+      36.169166666,
+      -115.144722222
+    ],
+    "type": "City",
+    "context": "The United States"
+  },
+  {
+    "name": "Leeds",
+    "coordinates": [
+      53.7975,
+      -1.543611111
+    ],
+    "type": "City",
+    "context": "The United Kingdom"
+  },
+  {
+    "name": "Legnica",
+    "coordinates": [
+      51.21006,
+      16.1619
+    ],
+    "type": "City",
+    "context": "Poland"
+  },
+  {
+    "name": "Leicester",
+    "coordinates": [
+      52.636111111,
+      -1.133055555
+    ],
+    "type": "City",
+    "context": "The United Kingdom"
+  },
+  {
+    "name": "Lhasa",
+    "coordinates": [
+      29.6457567,
+      91.1408186
+    ],
+    "type": "City",
+    "context": "China"
+  },
+  {
+    "name": "Libreville",
+    "coordinates": [
+      0.3901,
+      9.4544
+    ],
+    "type": "City",
+    "context": "Gabon"
+  },
+  {
+    "name": "Lille",
+    "coordinates": [
+      50.631944444,
+      3.0575
+    ],
+    "type": "City",
+    "context": "France"
+  },
+  {
+    "name": "Lilongwe",
+    "coordinates": [
+      -13.983333333,
+      33.783333333
+    ],
+    "type": "City",
+    "context": "Malawi"
+  },
+  {
+    "name": "Lima",
+    "coordinates": [
+      -12.06,
+      -77.0375
+    ],
+    "type": "City",
+    "context": "Peru"
+  },
+  {
+    "name": "Lincoln",
+    "coordinates": [
+      40.809166666,
+      -96.678055555
+    ],
+    "type": "City",
+    "context": "Nebraska, The United States"
+  },
+  {
+    "name": "Linyi City",
+    "coordinates": [
+      35.10408,
+      118.35019
+    ],
+    "type": "City",
+    "context": "China"
+  },
+  {
+    "name": "Lisbon",
+    "coordinates": [
+      38.708042,
+      -9.139016
+    ],
+    "type": "City",
+    "context": "Portugal"
+  },
+  {
+    "name": "Little Rock",
+    "coordinates": [
+      34.744444444,
+      -92.288055555
+    ],
+    "type": "City",
+    "context": "Arkansas, The United States"
+  },
+  {
+    "name": "Liverpool",
+    "coordinates": [
+      53.407222222,
+      -2.991666666
+    ],
+    "type": "City",
+    "context": "The United Kingdom"
+  },
+  {
+    "name": "Ljubljana",
+    "coordinates": [
+      46.051388888,
+      14.506111111
+    ],
+    "type": "City",
+    "context": "Slovenia"
+  },
+  {
+    "name": "Lobamba",
+    "coordinates": [
+      -26.44648,
+      31.206411
+    ],
+    "type": "City",
+    "context": "Eswatini"
+  },
+  {
+    "name": "Lomé",
+    "coordinates": [
+      6.13,
+      1.215833333
+    ],
+    "type": "City",
+    "context": "Togo"
+  },
+  {
+    "name": "London",
+    "coordinates": [
+      51.507222222,
+      -0.1275
+    ],
+    "type": "City",
+    "context": "The United Kingdom"
+  },
+  {
+    "name": "Londrina",
+    "coordinates": [
+      -23.31,
+      -51.162777777
+    ],
+    "type": "City",
+    "context": "Brazil"
+  },
+  {
+    "name": "Long Beach",
+    "coordinates": [
+      33.768055555,
+      -118.195555555
+    ],
+    "type": "City",
+    "context": "California, The United States"
+  },
+  {
+    "name": "Los Altos",
+    "coordinates": [
+      37.3681,
+      -122.098
+    ],
+    "type": "City",
+    "context": "California, The United States"
+  },
+  {
+    "name": "Los Angeles",
+    "coordinates": [
+      34.05223,
+      -118.24368
+    ],
+    "type": "City",
+    "context": "The United States"
+  },
+  {
+    "name": "Los Gatos",
+    "coordinates": [
+      37.236111111,
+      -121.961666666
+    ],
+    "type": "City",
+    "context": "California, The United States"
+  },
+  {
+    "name": "Lourdes",
+    "coordinates": [
+      43.094166666,
+      -0.046944444
+    ],
+    "type": "City",
+    "context": "France"
+  },
+  {
+    "name": "Luanda",
+    "coordinates": [
+      -8.838333333,
+      13.234444444
+    ],
+    "type": "City",
+    "context": "Angola"
+  },
+  {
+    "name": "Lucknow",
+    "coordinates": [
+      26.847,
+      80.947
+    ],
+    "type": "City",
+    "context": "India"
+  },
+  {
+    "name": "Ludhiana",
+    "coordinates": [
+      30.908333333,
+      75.848611111
+    ],
+    "type": "City",
+    "context": "India"
+  },
+  {
+    "name": "Luoyang",
+    "coordinates": [
+      34.65867,
+      112.42447
+    ],
+    "type": "City",
+    "context": "China"
+  },
+  {
+    "name": "Lusaka",
+    "coordinates": [
+      -15.416666666,
+      28.283333333
+    ],
+    "type": "City",
+    "context": "Zambia"
+  },
+  {
+    "name": "Luxembourg",
+    "coordinates": [
+      49.610555555,
+      6.132777777
+    ],
+    "type": "City",
+    "context": "Luxembourg"
+  },
+  {
+    "name": "Luxor",
+    "coordinates": [
+      25.696666666,
+      32.644444444
+    ],
+    "type": "City",
+    "context": "Egypt"
+  },
+  {
+    "name": "Lviv",
+    "coordinates": [
+      49.8425,
+      24.032222222
+    ],
+    "type": "City",
+    "context": "Ukraine"
+  },
+  {
+    "name": "Lyon",
+    "coordinates": [
+      45.758888888,
+      4.841388888
+    ],
+    "type": "City",
+    "context": "France"
+  },
+  {
+    "name": "Macapá",
+    "coordinates": [
+      0.032958333,
+      -51.065311111
+    ],
+    "type": "City",
+    "context": "Brazil"
+  },
+  {
+    "name": "Maceió",
+    "coordinates": [
+      -9.665833333,
+      -35.735
+    ],
+    "type": "City",
+    "context": "Brazil"
+  },
+  {
+    "name": "Madison",
+    "coordinates": [
+      43.074722222,
+      -89.384166666
+    ],
+    "type": "City",
+    "context": "Wisconsin, The United States"
+  },
+  {
+    "name": "Madrid",
+    "coordinates": [
+      40.416944444,
+      -3.703333333
+    ],
+    "type": "City",
+    "context": "Spain"
+  },
+  {
+    "name": "Madurai",
+    "coordinates": [
+      9.919661111,
+      78.119394444
+    ],
+    "type": "City",
+    "context": "India"
+  },
+  {
+    "name": "Majuro",
+    "coordinates": [
+      7.0918,
+      171.3802
+    ],
+    "type": "City",
+    "context": "Marshall Islands"
+  },
+  {
+    "name": "Malabo",
+    "coordinates": [
+      3.752063888,
+      8.7737
+    ],
+    "type": "City",
+    "context": "Equatorial Guinea"
+  },
+  {
+    "name": "Malé",
+    "coordinates": [
+      4.175,
+      73.508333333
+    ],
+    "type": "City",
+    "context": "Maldives"
+  },
+  {
+    "name": "Managua",
+    "coordinates": [
+      12.154372222,
+      -86.273766666
+    ],
+    "type": "City",
+    "context": "Nicaragua"
+  },
+  {
+    "name": "Manama",
+    "coordinates": [
+      26.225,
+      50.5775
+    ],
+    "type": "City",
+    "context": "Bahrain"
+  },
+  {
+    "name": "Manaus",
+    "coordinates": [
+      -3.118888888,
+      -60.021666666
+    ],
+    "type": "City",
+    "context": "Brazil"
+  },
+  {
+    "name": "Manchester",
+    "coordinates": [
+      53.466666666,
+      -2.233333333
+    ],
+    "type": "City",
+    "context": "The United Kingdom"
+  },
+  {
+    "name": "Mangaluru",
+    "coordinates": [
+      12.871666666,
+      74.8425
+    ],
+    "type": "City",
+    "context": "India"
+  },
+  {
+    "name": "Manila",
+    "coordinates": [
+      14.595833333,
+      120.977222222
+    ],
+    "type": "City",
+    "context": "Philippines"
+  },
+  {
+    "name": "Maputo",
+    "coordinates": [
+      -25.915277777,
+      32.576388888
+    ],
+    "type": "City",
+    "context": "Mozambique"
+  },
+  {
+    "name": "Mar del Plata",
+    "coordinates": [
+      -38.0,
+      -57.55
+    ],
+    "type": "City",
+    "context": "Argentina"
+  },
+  {
+    "name": "Maringá",
+    "coordinates": [
+      -23.425,
+      -51.938888888
+    ],
+    "type": "City",
+    "context": "Brazil"
+  },
+  {
+    "name": "Marseille",
+    "coordinates": [
+      43.296666666,
+      5.376388888
+    ],
+    "type": "City",
+    "context": "France"
+  },
+  {
+    "name": "Maseru",
+    "coordinates": [
+      -29.31,
+      27.48
+    ],
+    "type": "City",
+    "context": "Lesotho"
+  },
+  {
+    "name": "Mashhad",
+    "coordinates": [
+      36.297494444,
+      59.605923055
+    ],
+    "type": "City",
+    "context": "Iran"
+  },
+  {
+    "name": "Mbabane",
+    "coordinates": [
+      -26.316666666,
+      31.133333333
+    ],
+    "type": "City",
+    "context": "Eswatini"
+  },
+  {
+    "name": "Medan",
+    "coordinates": [
+      3.589444444,
+      98.673888888
+    ],
+    "type": "City",
+    "context": "Indonesia"
+  },
+  {
+    "name": "Melbourne",
+    "coordinates": [
+      -37.814166666,
+      144.963055555
+    ],
+    "type": "City",
+    "context": "Australia"
+  },
+  {
+    "name": "Mendoza",
+    "coordinates": [
+      -32.889722222,
+      -68.844444444
+    ],
+    "type": "City",
+    "context": "Argentina, Argentina"
+  },
+  {
+    "name": "Menlo Park",
+    "coordinates": [
+      37.454166666,
+      -122.178611111
+    ],
+    "type": "City",
+    "context": "California, The United States"
+  },
+  {
+    "name": "Mexico City",
+    "coordinates": [
+      19.419444444,
+      -99.145555555
+    ],
+    "type": "City",
+    "context": "Mexico"
+  },
+  {
+    "name": "Miami",
+    "coordinates": [
+      25.783333333,
+      -80.216666666
+    ],
+    "type": "City",
+    "context": "The United States"
+  },
+  {
+    "name": "Milan",
+    "coordinates": [
+      45.466944444,
+      9.19
+    ],
+    "type": "City",
+    "context": "Italy"
+  },
+  {
+    "name": "Milpitas",
+    "coordinates": [
+      37.434722222,
+      -121.895
+    ],
+    "type": "City",
+    "context": "California, The United States"
+  },
+  {
+    "name": "Milwaukee",
+    "coordinates": [
+      43.05,
+      -87.95
+    ],
+    "type": "City",
+    "context": "The United States"
+  },
+  {
+    "name": "Minneapolis",
+    "coordinates": [
+      44.981944444,
+      -93.269166666
+    ],
+    "type": "City",
+    "context": "The United States"
+  },
+  {
+    "name": "Minsk",
+    "coordinates": [
+      53.902246,
+      27.561837
+    ],
+    "type": "City",
+    "context": "Belarus"
+  },
+  {
+    "name": "Modesto",
+    "coordinates": [
+      37.661388888,
+      -120.994444444
+    ],
+    "type": "City",
+    "context": "California, The United States"
+  },
+  {
+    "name": "Mogadishu",
+    "coordinates": [
+      2.039166666,
+      45.341944444
+    ],
+    "type": "City",
+    "context": "Somalia"
+  },
+  {
+    "name": "Monaco",
+    "coordinates": [
+      -41.30416667,
+      173.21111111
+    ],
+    "type": "City",
+    "context": "New Zealand, New Zealand"
+  },
+  {
+    "name": "Monrovia",
+    "coordinates": [
+      6.310555555,
+      -10.804722222
+    ],
+    "type": "City",
+    "context": "Liberia"
+  },
+  {
+    "name": "Monterrey",
+    "coordinates": [
+      25.684444444,
+      -100.318055555
+    ],
+    "type": "City",
+    "context": "Mexico"
+  },
+  {
+    "name": "Montes Claros",
+    "coordinates": [
+      -16.732222222,
+      -43.863611111
+    ],
+    "type": "City",
+    "context": "Brazil"
+  },
+  {
+    "name": "Montevideo",
+    "coordinates": [
+      -34.866666666,
+      -56.166666666
+    ],
+    "type": "City",
+    "context": "Uruguay"
+  },
+  {
+    "name": "Montgomery",
+    "coordinates": [
+      32.3675,
+      -86.3
+    ],
+    "type": "City",
+    "context": "Alabama, The United States"
+  },
+  {
+    "name": "Montpelier",
+    "coordinates": [
+      44.2658586,
+      -72.5717415
+    ],
+    "type": "City",
+    "context": "Vermont, The United States"
+  },
+  {
+    "name": "Montpellier",
+    "coordinates": [
+      43.610919444,
+      3.877230555
+    ],
+    "type": "City",
+    "context": "France"
+  },
+  {
+    "name": "Montreal",
+    "coordinates": [
+      45.508888888,
+      -73.561666666
+    ],
+    "type": "City",
+    "context": "Canada"
+  },
+  {
+    "name": "Moroni",
+    "coordinates": [
+      -11.703611111,
+      43.253611111
+    ],
+    "type": "City",
+    "context": "Comoros, Comoros"
+  },
+  {
+    "name": "Moscow",
+    "coordinates": [
+      55.755833333,
+      37.617777777
+    ],
+    "type": "City",
+    "context": "Russia"
+  },
+  {
+    "name": "Mossoró",
+    "coordinates": [
+      -5.187777777,
+      -37.343888888
+    ],
+    "type": "City",
+    "context": "Brazil"
+  },
+  {
+    "name": "Mountain View",
+    "coordinates": [
+      37.392777777,
+      -122.041944444
+    ],
+    "type": "City",
+    "context": "California, The United States"
+  },
+  {
+    "name": "Mumbai",
+    "coordinates": [
+      19.075833333,
+      72.8775
+    ],
+    "type": "City",
+    "context": "India"
+  },
+  {
+    "name": "Munich",
+    "coordinates": [
+      48.1375,
+      11.575
+    ],
+    "type": "City",
+    "context": "Germany"
+  },
+  {
+    "name": "Muscat",
+    "coordinates": [
+      23.613888888,
+      58.592222222
+    ],
+    "type": "City",
+    "context": "Oman"
+  },
+  {
+    "name": "Mysore",
+    "coordinates": [
+      12.308611111,
+      76.653055555
+    ],
+    "type": "City",
+    "context": "India"
+  },
+  {
+    "name": "Mérida",
+    "coordinates": [
+      20.97,
+      -89.62
+    ],
+    "type": "City",
+    "context": "Yucatán, Mexico"
+  },
+  {
+    "name": "N'Djamena",
+    "coordinates": [
+      12.11,
+      15.05
+    ],
+    "type": "City",
+    "context": "Chad"
+  },
+  {
+    "name": "Nagasaki",
+    "coordinates": [
+      32.749527777,
+      129.879638888
+    ],
+    "type": "City",
+    "context": "Japan"
+  },
+  {
+    "name": "Nagoya",
+    "coordinates": [
+      35.181388888,
+      136.906388888
+    ],
+    "type": "City",
+    "context": "Japan"
+  },
+  {
+    "name": "Nagpur",
+    "coordinates": [
+      21.149722222,
+      79.080555555
+    ],
+    "type": "City",
+    "context": "India"
+  },
+  {
+    "name": "Naha",
+    "coordinates": [
+      26.212222222,
+      127.679166666
+    ],
+    "type": "City",
+    "context": "Japan"
+  },
+  {
+    "name": "Nairobi",
+    "coordinates": [
+      -1.286388888,
+      36.817222222
+    ],
+    "type": "City",
+    "context": "Kenya"
+  },
+  {
+    "name": "Nanchang",
+    "coordinates": [
+      28.684167,
+      115.887222
+    ],
+    "type": "City",
+    "context": "China"
+  },
+  {
+    "name": "Nanjing",
+    "coordinates": [
+      32.060833333,
+      118.778888888
+    ],
+    "type": "City",
+    "context": "China"
+  },
+  {
+    "name": "Nanning",
+    "coordinates": [
+      22.81918,
+      108.31501
+    ],
+    "type": "City",
+    "context": "China"
+  },
+  {
+    "name": "Nantes",
+    "coordinates": [
+      47.217222222,
+      -1.553888888
+    ],
+    "type": "City",
+    "context": "France"
+  },
+  {
+    "name": "Nantong",
+    "coordinates": [
+      31.98288,
+      120.8873
+    ],
+    "type": "City",
+    "context": "China"
+  },
+  {
+    "name": "Nanyang",
+    "coordinates": [
+      32.99871,
+      112.52921
+    ],
+    "type": "City",
+    "context": "Henan, China"
+  },
+  {
+    "name": "Napa",
+    "coordinates": [
+      38.3,
+      -122.3
+    ],
+    "type": "City",
+    "context": "California, The United States"
+  },
+  {
+    "name": "Naples",
+    "coordinates": [
+      40.835833333,
+      14.248611111
+    ],
+    "type": "City",
+    "context": "Italy"
+  },
+  {
+    "name": "Nara",
+    "coordinates": [
+      34.685,
+      135.804777777
+    ],
+    "type": "City",
+    "context": "Japan"
+  },
+  {
+    "name": "Nashik",
+    "coordinates": [
+      20.0,
+      73.783333333
+    ],
+    "type": "City",
+    "context": "India"
+  },
+  {
+    "name": "Nashville",
+    "coordinates": [
+      36.162222222,
+      -86.774444444
+    ],
+    "type": "City",
+    "context": "Tennessee, The United States"
+  },
+  {
+    "name": "Nassau",
+    "coordinates": [
+      25.078055555,
+      -77.338611111
+    ],
+    "type": "City",
+    "context": "The Bahamas, Bahamas"
+  },
+  {
+    "name": "Natal",
+    "coordinates": [
+      -5.795,
+      -35.208888888
+    ],
+    "type": "City",
+    "context": "Rio Grande do Norte, Brazil"
+  },
+  {
+    "name": "Naypyidaw",
+    "coordinates": [
+      19.7475,
+      96.115
+    ],
+    "type": "City",
+    "context": "Myanmar"
+  },
+  {
+    "name": "Nazareth",
+    "coordinates": [
+      32.702102777,
+      35.29785
+    ],
+    "type": "City",
+    "context": "Israel"
+  },
+  {
+    "name": "New Delhi",
+    "coordinates": [
+      28.613888888,
+      77.208888888
+    ],
+    "type": "City",
+    "context": "India"
+  },
+  {
+    "name": "New Orleans",
+    "coordinates": [
+      29.976111111,
+      -90.078333333
+    ],
+    "type": "City",
+    "context": "The United States"
+  },
+  {
+    "name": "New Taipei",
+    "coordinates": [
+      25.011111,
+      121.445833
+    ],
+    "type": "City",
+    "context": "Taiwan"
+  },
+  {
+    "name": "New York City",
+    "coordinates": [
+      40.712777777,
+      -74.006111111
+    ],
+    "type": "City",
+    "context": "The United States"
+  },
+  {
+    "name": "Newcastle upon Tyne",
+    "coordinates": [
+      54.977777777,
+      -1.613333333
+    ],
+    "type": "City",
+    "context": "The United Kingdom"
+  },
+  {
+    "name": "Ngerulmud",
+    "coordinates": [
+      7.500556,
+      134.624167
+    ],
+    "type": "City",
+    "context": "Palau"
+  },
+  {
+    "name": "Nha Trang",
+    "coordinates": [
+      12.245,
+      109.191666666
+    ],
+    "type": "City",
+    "context": "Vietnam"
+  },
+  {
+    "name": "Niamey",
+    "coordinates": [
+      13.515,
+      2.1175
+    ],
+    "type": "City",
+    "context": "Niger"
+  },
+  {
+    "name": "Nice",
+    "coordinates": [
+      43.701944444,
+      7.268333333
+    ],
+    "type": "City",
+    "context": "France"
+  },
+  {
+    "name": "Nicosia",
+    "coordinates": [
+      35.1725,
+      33.365
+    ],
+    "type": "City",
+    "context": "Cyprus"
+  },
+  {
+    "name": "Ningbo",
+    "coordinates": [
+      29.875,
+      121.549166666
+    ],
+    "type": "City",
+    "context": "China"
+  },
+  {
+    "name": "Nizhny Novgorod",
+    "coordinates": [
+      56.326944444,
+      44.0075
+    ],
+    "type": "City",
+    "context": "Russia"
+  },
+  {
+    "name": "Nottingham",
+    "coordinates": [
+      52.955,
+      -1.149166666
+    ],
+    "type": "City",
+    "context": "The United Kingdom"
+  },
+  {
+    "name": "Nouakchott",
+    "coordinates": [
+      18.08581,
+      -15.9785
+    ],
+    "type": "City",
+    "context": "Mauritania"
+  },
+  {
+    "name": "Nova Aurora",
+    "coordinates": [
+      -24.528888888,
+      -53.255833333
+    ],
+    "type": "City",
+    "context": "Paraná, Brazil"
+  },
+  {
+    "name": "Novo Hamburgo",
+    "coordinates": [
+      -29.677777777,
+      -51.130833333
+    ],
+    "type": "City",
+    "context": "Brazil"
+  },
+  {
+    "name": "Novosibirsk",
+    "coordinates": [
+      55.033333333,
+      82.916666666
+    ],
+    "type": "City",
+    "context": "Russia"
+  },
+  {
+    "name": "Nukuʻalofa",
+    "coordinates": [
+      -21.1343401,
+      -175.201808
+    ],
+    "type": "City",
+    "context": "Tonga"
+  },
+  {
+    "name": "Nyingchi",
+    "coordinates": [
+      29.65973,
+      94.35936
+    ],
+    "type": "City",
+    "context": "China"
+  },
+  {
+    "name": "Oakland",
+    "coordinates": [
+      37.8,
+      -122.25
+    ],
+    "type": "City",
+    "context": "California, The United States"
+  },
+  {
+    "name": "Odesa",
+    "coordinates": [
+      46.47747,
+      30.73262
+    ],
+    "type": "City",
+    "context": "Ukraine"
+  },
+  {
+    "name": "Okayama",
+    "coordinates": [
+      34.655111111,
+      133.919583333
+    ],
+    "type": "City",
+    "context": "Japan"
+  },
+  {
+    "name": "Oklahoma City",
+    "coordinates": [
+      35.4823,
+      -97.5352
+    ],
+    "type": "City",
+    "context": "The United States"
+  },
+  {
+    "name": "Olympia",
+    "coordinates": [
+      47.0425,
+      -122.893055555
+    ],
+    "type": "City",
+    "context": "Washington, The United States"
+  },
+  {
+    "name": "Omsk",
+    "coordinates": [
+      54.966666666,
+      73.383333333
+    ],
+    "type": "City",
+    "context": "Russia"
+  },
+  {
+    "name": "Ontario",
+    "coordinates": [
+      34.052777777,
+      -117.627777777
+    ],
+    "type": "City",
+    "context": "California, The United States"
+  },
+  {
+    "name": "Ordos City",
+    "coordinates": [
+      39.815,
+      109.9975
+    ],
+    "type": "City",
+    "context": "China"
+  },
+  {
+    "name": "Osaka",
+    "coordinates": [
+      34.69375,
+      135.502111111
+    ],
+    "type": "City",
+    "context": "Japan"
+  },
+  {
+    "name": "Oslo",
+    "coordinates": [
+      59.913333333,
+      10.738888888
+    ],
+    "type": "City",
+    "context": "Norway"
+  },
+  {
+    "name": "Ottawa",
+    "coordinates": [
+      45.424722222,
+      -75.695
+    ],
+    "type": "City",
+    "context": "Canada"
+  },
+  {
+    "name": "Ouagadougou",
+    "coordinates": [
+      12.368611111,
+      -1.5275
+    ],
+    "type": "City",
+    "context": "Burkina Faso"
+  },
+  {
+    "name": "Oxnard",
+    "coordinates": [
+      34.191388888,
+      -119.1825
+    ],
+    "type": "City",
+    "context": "California, The United States"
+  },
+  {
+    "name": "Palermo",
+    "coordinates": [
+      38.115658055,
+      13.361261944
+    ],
+    "type": "City",
+    "context": "Italy"
+  },
+  {
+    "name": "Palikir",
+    "coordinates": [
+      6.917777777,
+      158.185
+    ],
+    "type": "City",
+    "context": "Federated States Of Micronesia"
+  },
+  {
+    "name": "Palmas",
+    "coordinates": [
+      -10.188611111,
+      -48.333611111
+    ],
+    "type": "City",
+    "context": "Tocantins, Brazil"
+  },
+  {
+    "name": "Palo Alto",
+    "coordinates": [
+      37.416667,
+      -122.133333
+    ],
+    "type": "City",
+    "context": "California, The United States"
+  },
+  {
+    "name": "Panaji",
+    "coordinates": [
+      15.48,
+      73.83
+    ],
+    "type": "City",
+    "context": "India"
+  },
+  {
+    "name": "Panama City",
+    "coordinates": [
+      9.0,
+      -79.5
+    ],
+    "type": "City",
+    "context": "Panama"
+  },
+  {
+    "name": "Paramaribo",
+    "coordinates": [
+      5.866666666,
+      -55.166666666
+    ],
+    "type": "City",
+    "context": "Suriname"
+  },
+  {
+    "name": "Paranaguá",
+    "coordinates": [
+      -25.520833333,
+      -48.509444444
+    ],
+    "type": "City",
+    "context": "Brazil"
+  },
+  {
+    "name": "Paris",
+    "coordinates": [
+      48.856666666,
+      2.352222222
+    ],
+    "type": "City",
+    "context": "France"
+  },
+  {
+    "name": "Pasadena",
+    "coordinates": [
+      34.156111111,
+      -118.131944444
+    ],
+    "type": "City",
+    "context": "California, The United States"
+  },
+  {
+    "name": "Passo Fundo",
+    "coordinates": [
+      -28.262777777,
+      -52.406944444
+    ],
+    "type": "City",
+    "context": "Brazil"
+  },
+  {
+    "name": "Patmos",
+    "coordinates": [
+      37.327222,
+      26.541667
+    ],
+    "type": "Island",
+    "context": "Greece"
+  },
+  {
+    "name": "Patna",
+    "coordinates": [
+      25.61,
+      85.141388888
+    ],
+    "type": "City",
+    "context": "India"
+  },
+  {
+    "name": "Pato Branco",
+    "coordinates": [
+      -26.228888888,
+      -52.670833333
+    ],
+    "type": "City",
+    "context": "Brazil"
+  },
+  {
+    "name": "Pelotas",
+    "coordinates": [
+      -31.771944444,
+      -52.342777777
+    ],
+    "type": "City",
+    "context": "Brazil"
+  },
+  {
+    "name": "Perm",
+    "coordinates": [
+      58.013888888,
+      56.248888888
+    ],
+    "type": "City",
+    "context": "Russia, Russia"
+  },
+  {
+    "name": "Perth",
+    "coordinates": [
+      -31.955833333,
+      115.859722222
+    ],
+    "type": "City",
+    "context": "Australia"
+  },
+  {
+    "name": "Petrolina",
+    "coordinates": [
+      -9.392777777,
+      -40.507777777
+    ],
+    "type": "City",
+    "context": "Brazil"
+  },
+  {
+    "name": "Philadelphia",
+    "coordinates": [
+      39.952777777,
+      -75.163611111
+    ],
+    "type": "City",
+    "context": "The United States"
+  },
+  {
+    "name": "Phnom Penh",
+    "coordinates": [
+      11.569583333,
+      104.921027777
+    ],
+    "type": "City",
+    "context": "Cambodia"
+  },
+  {
+    "name": "Phoenix",
+    "coordinates": [
+      33.448333333,
+      -112.073888888
+    ],
+    "type": "City",
+    "context": "Arizona, The United States"
+  },
+  {
+    "name": "Pierre",
+    "coordinates": [
+      44.368361111,
+      -100.351138888
+    ],
+    "type": "City",
+    "context": "South Dakota, The United States"
+  },
+  {
+    "name": "Piracicaba",
+    "coordinates": [
+      -22.725165,
+      -47.6493269
+    ],
+    "type": "City",
+    "context": "Brazil"
+  },
+  {
+    "name": "Pittsburgh",
+    "coordinates": [
+      40.441666666,
+      -80.0
+    ],
+    "type": "City",
+    "context": "The United States"
+  },
+  {
+    "name": "Podgorica",
+    "coordinates": [
+      42.441388888,
+      19.262777777
+    ],
+    "type": "City",
+    "context": "Montenegro"
+  },
+  {
+    "name": "Ponta Grossa",
+    "coordinates": [
+      -25.095,
+      -50.161944444
+    ],
+    "type": "City",
+    "context": "Brazil"
+  },
+  {
+    "name": "Port Elizabeth",
+    "coordinates": [
+      13.011111111,
+      -61.234444444
+    ],
+    "type": "City",
+    "context": "Saint Vincent and the Grenadines, Saint Vincent And The Grenadines"
+  },
+  {
+    "name": "Port Harcourt",
+    "coordinates": [
+      4.75,
+      7.0
+    ],
+    "type": "City",
+    "context": "Nigeria"
+  },
+  {
+    "name": "Port Louis",
+    "coordinates": [
+      -20.161944444,
+      57.498888888
+    ],
+    "type": "City",
+    "context": "Mauritius"
+  },
+  {
+    "name": "Port Moresby",
+    "coordinates": [
+      -9.478888888,
+      147.149444444
+    ],
+    "type": "City",
+    "context": "Papua New Guinea"
+  },
+  {
+    "name": "Port of Spain",
+    "coordinates": [
+      10.666666666,
+      -61.516666666
+    ],
+    "type": "City",
+    "context": "Trinidad And Tobago"
+  },
+  {
+    "name": "Port Vila",
+    "coordinates": [
+      -17.73333,
+      168.316667
+    ],
+    "type": "City",
+    "context": "Vanuatu"
+  },
+  {
+    "name": "Port-au-Prince",
+    "coordinates": [
+      18.5425,
+      -72.338611111
+    ],
+    "type": "City",
+    "context": "Haiti"
+  },
+  {
+    "name": "Portland",
+    "coordinates": [
+      45.516666666,
+      -122.666666666
+    ],
+    "type": "City",
+    "context": "Oregon, The United States"
+  },
+  {
+    "name": "Porto Alegre",
+    "coordinates": [
+      -30.032777777,
+      -51.23
+    ],
+    "type": "City",
+    "context": "Brazil"
+  },
+  {
+    "name": "Porto Velho",
+    "coordinates": [
+      -8.761944444,
+      -63.903888888
+    ],
+    "type": "City",
+    "context": "Brazil"
+  },
+  {
+    "name": "Porto-Novo",
+    "coordinates": [
+      6.483333333,
+      2.616666666
+    ],
+    "type": "City",
+    "context": "Benin"
+  },
+  {
+    "name": "Poços de Caldas",
+    "coordinates": [
+      -21.787777777,
+      -46.560833333
+    ],
+    "type": "City",
+    "context": "Brazil"
+  },
+  {
+    "name": "Prague",
+    "coordinates": [
+      50.0875,
+      14.421388888
+    ],
+    "type": "City",
+    "context": "Czech Republic"
+  },
+  {
+    "name": "Praia",
+    "coordinates": [
+      14.917719444,
+      -23.509155555
+    ],
+    "type": "City",
+    "context": "Cape Verde"
+  },
+  {
+    "name": "Prayagraj",
+    "coordinates": [
+      25.45,
+      81.85
+    ],
+    "type": "City",
+    "context": "India"
+  },
+  {
+    "name": "Presidente Prudente",
+    "coordinates": [
+      -22.125833333,
+      -51.388888888
+    ],
+    "type": "City",
+    "context": "Brazil"
+  },
+  {
+    "name": "Pretoria",
+    "coordinates": [
+      -25.746388888,
+      28.188055555
+    ],
+    "type": "City",
+    "context": "South Africa"
+  },
+  {
+    "name": "Pristina",
+    "coordinates": [
+      42.666666666,
+      21.166666666
+    ],
+    "type": "City",
+    "context": "Serbia"
+  },
+  {
+    "name": "Providence",
+    "coordinates": [
+      41.82399,
+      -71.41283
+    ],
+    "type": "City",
+    "context": "Rhode Island, The United States"
+  },
+  {
+    "name": "Puebla",
+    "coordinates": [
+      19.0412967,
+      -98.2061996
+    ],
+    "type": "City",
+    "context": "Mexico"
+  },
+  {
+    "name": "Pune",
+    "coordinates": [
+      18.519574,
+      73.855287
+    ],
+    "type": "City",
+    "context": "India"
+  },
+  {
+    "name": "Putrajaya",
+    "coordinates": [
+      2.93,
+      101.69
+    ],
+    "type": "City",
+    "context": "Malaysia"
+  },
+  {
+    "name": "Pyongyang",
+    "coordinates": [
+      39.016666666,
+      125.7475
+    ],
+    "type": "City",
+    "context": "North Korea"
+  },
+  {
+    "name": "Qingdao",
+    "coordinates": [
+      36.116666666,
+      120.4
+    ],
+    "type": "City",
+    "context": "China"
+  },
+  {
+    "name": "Quanzhou",
+    "coordinates": [
+      24.91389,
+      118.58583
+    ],
+    "type": "City",
+    "context": "China"
+  },
+  {
+    "name": "Quebec City",
+    "coordinates": [
+      46.816111,
+      -71.224167
+    ],
+    "type": "City",
+    "context": "Canada"
+  },
+  {
+    "name": "Quito",
+    "coordinates": [
+      -0.22,
+      -78.5125
+    ],
+    "type": "City",
+    "context": "Ecuador"
+  },
+  {
+    "name": "Rabat",
+    "coordinates": [
+      34.025277777,
+      -6.836111111
+    ],
+    "type": "City",
+    "context": "Morocco"
+  },
+  {
+    "name": "Raipur",
+    "coordinates": [
+      21.2379468,
+      81.6336833
+    ],
+    "type": "City",
+    "context": "India"
+  },
+  {
+    "name": "Rajkot",
+    "coordinates": [
+      22.296908333,
+      70.798363888
+    ],
+    "type": "City",
+    "context": "India"
+  },
+  {
+    "name": "Raleigh",
+    "coordinates": [
+      35.78,
+      -78.64
+    ],
+    "type": "City",
+    "context": "North Carolina, The United States"
+  },
+  {
+    "name": "Ranchi",
+    "coordinates": [
+      23.355555555,
+      85.334722222
+    ],
+    "type": "City",
+    "context": "India"
+  },
+  {
+    "name": "Recife",
+    "coordinates": [
+      -8.053888888,
+      -34.880833333
+    ],
+    "type": "City",
+    "context": "Brazil"
+  },
+  {
+    "name": "Redwood City",
+    "coordinates": [
+      37.482777777,
+      -122.236111111
+    ],
+    "type": "City",
+    "context": "California, The United States"
+  },
+  {
+    "name": "Rennes",
+    "coordinates": [
+      48.114166666,
+      -1.680833333
+    ],
+    "type": "City",
+    "context": "France"
+  },
+  {
+    "name": "Reykjavík",
+    "coordinates": [
+      64.1475,
+      -21.935
+    ],
+    "type": "City",
+    "context": "Iceland"
+  },
+  {
+    "name": "Ribeirão Preto",
+    "coordinates": [
+      -21.1776315,
+      -47.8100983
+    ],
+    "type": "City",
+    "context": "Brazil"
+  },
+  {
+    "name": "Richmond",
+    "coordinates": [
+      37.540833333,
+      -77.436666666
+    ],
+    "type": "City",
+    "context": "Virginia, The United States"
+  },
+  {
+    "name": "Riga",
+    "coordinates": [
+      56.9475,
+      24.106944444
+    ],
+    "type": "City",
+    "context": "Latvia"
+  },
+  {
+    "name": "Rio Branco",
+    "coordinates": [
+      -9.978055555,
+      -67.811666666
+    ],
+    "type": "City",
+    "context": "Acre, Brazil"
+  },
+  {
+    "name": "Rio de Janeiro",
+    "coordinates": [
+      -22.911111111,
+      -43.205555555
+    ],
+    "type": "City",
+    "context": "Brazil"
+  },
+  {
+    "name": "Riverside",
+    "coordinates": [
+      33.982222222,
+      -117.3725
+    ],
+    "type": "City",
+    "context": "California, The United States"
+  },
+  {
+    "name": "Riyadh",
+    "coordinates": [
+      24.65,
+      46.71
+    ],
+    "type": "City",
+    "context": "Saudi Arabia"
+  },
+  {
+    "name": "Rome",
+    "coordinates": [
+      41.893055555,
+      12.482777777
+    ],
+    "type": "City",
+    "context": "Italy"
+  },
+  {
+    "name": "Rosario",
+    "coordinates": [
+      -32.9575,
+      -60.639444444
+    ],
+    "type": "City",
+    "context": "Argentina"
+  },
+  {
+    "name": "Roseau",
+    "coordinates": [
+      15.3,
+      -61.383333333
+    ],
+    "type": "City",
+    "context": "Dominica"
+  },
+  {
+    "name": "Rostov-on-Don",
+    "coordinates": [
+      47.2225,
+      39.71
+    ],
+    "type": "City",
+    "context": "Russia"
+  },
+  {
+    "name": "Rourkela",
+    "coordinates": [
+      22.249166666,
+      84.882777777
+    ],
+    "type": "City",
+    "context": "India"
+  },
+  {
+    "name": "Sacramento",
+    "coordinates": [
+      38.575277777,
+      -121.486111111
+    ],
+    "type": "City",
+    "context": "California, The United States"
+  },
+  {
+    "name": "Saint John's",
+    "coordinates": [
+      17.121111111,
+      -61.844722222
+    ],
+    "type": "City",
+    "context": "Antigua and Barbuda, Antigua And Barbuda"
+  },
+  {
+    "name": "Saint Paul",
+    "coordinates": [
+      44.944166666,
+      -93.093611111
+    ],
+    "type": "City",
+    "context": "Minnesota, The United States"
+  },
+  {
+    "name": "Saint Petersburg",
+    "coordinates": [
+      59.95,
+      30.316666666
+    ],
+    "type": "City",
+    "context": "Russia"
+  },
+  {
+    "name": "Salem",
+    "coordinates": [
+      44.930833333,
+      -123.028888888
+    ],
+    "type": "City",
+    "context": "Oregon, The United States"
+  },
+  {
+    "name": "Salt Lake City",
+    "coordinates": [
+      40.75,
+      -111.883333333
+    ],
+    "type": "City",
+    "context": "The United States"
+  },
+  {
+    "name": "Salvador",
+    "coordinates": [
+      -12.983055555,
+      -38.492777777
+    ],
+    "type": "City",
+    "context": "Bahia, Brazil"
+  },
+  {
+    "name": "Samara",
+    "coordinates": [
+      53.183333333,
+      50.116666666
+    ],
+    "type": "City",
+    "context": "Russia"
+  },
+  {
+    "name": "San Antonio",
+    "coordinates": [
+      29.425,
+      -98.493888888
+    ],
+    "type": "City",
+    "context": "The United States"
+  },
+  {
+    "name": "San Bernardino",
+    "coordinates": [
+      34.129444444,
+      -117.293055555
+    ],
+    "type": "City",
+    "context": "California, The United States"
+  },
+  {
+    "name": "San Diego",
+    "coordinates": [
+      32.715,
+      -117.1625
+    ],
+    "type": "City",
+    "context": "The United States"
+  },
+  {
+    "name": "San Francisco",
+    "coordinates": [
+      37.7775,
+      -122.416388888
+    ],
+    "type": "City",
+    "context": "The United States"
+  },
+  {
+    "name": "San Giovanni Rotondo",
+    "coordinates": [
+      41.7,
+      15.733333333
+    ],
+    "type": "City",
+    "context": "Italy"
+  },
+  {
+    "name": "San Jose",
+    "coordinates": [
+      37.304166666,
+      -121.872777777
+    ],
+    "type": "City",
+    "context": "California, The United States"
+  },
+  {
+    "name": "San José",
+    "coordinates": [
+      9.932511111,
+      -84.079580555
+    ],
+    "type": "City",
+    "context": "Costa Rica, Costa Rica"
+  },
+  {
+    "name": "San Marino",
+    "coordinates": [
+      34.122777777,
+      -118.113055555
+    ],
+    "type": "City",
+    "context": "California, The United States"
+  },
+  {
+    "name": "San Mateo",
+    "coordinates": [
+      37.554166666,
+      -122.313055555
+    ],
+    "type": "City",
+    "context": "California, The United States"
+  },
+  {
+    "name": "San Rafael",
+    "coordinates": [
+      37.973333333,
+      -122.530833333
+    ],
+    "type": "City",
+    "context": "California, The United States"
+  },
+  {
+    "name": "San Salvador",
+    "coordinates": [
+      13.698963888,
+      -89.191427777
+    ],
+    "type": "City",
+    "context": "El Salvador"
+  },
+  {
+    "name": "Sanaa",
+    "coordinates": [
+      15.35,
+      44.2
+    ],
+    "type": "City",
+    "context": "Yemen"
+  },
+  {
+    "name": "Santa Ana",
+    "coordinates": [
+      33.740833333,
+      -117.881388888
+    ],
+    "type": "City",
+    "context": "California, The United States"
+  },
+  {
+    "name": "Santa Barbara",
+    "coordinates": [
+      34.425833333,
+      -119.714166666
+    ],
+    "type": "City",
+    "context": "California, The United States"
+  },
+  {
+    "name": "Santa Clara",
+    "coordinates": [
+      37.35,
+      -121.966666666
+    ],
+    "type": "City",
+    "context": "California, The United States"
+  },
+  {
+    "name": "Santa Cruz",
+    "coordinates": [
+      36.97205,
+      -122.026252
+    ],
+    "type": "City",
+    "context": "California, The United States"
+  },
+  {
+    "name": "Santa Fe",
+    "coordinates": [
+      35.666666666,
+      -105.966666666
+    ],
+    "type": "City",
+    "context": "New Mexico, The United States"
+  },
+  {
+    "name": "Santa Maria",
+    "coordinates": [
+      -29.683888888,
+      -53.806944444
+    ],
+    "type": "City",
+    "context": "Rio Grande do Sul, Brazil"
+  },
+  {
+    "name": "Santa Rosa",
+    "coordinates": [
+      38.448611111,
+      -122.704722222
+    ],
+    "type": "City",
+    "context": "California, The United States"
+  },
+  {
+    "name": "Santarém",
+    "coordinates": [
+      -2.442777777,
+      -54.707777777
+    ],
+    "type": "City",
+    "context": "Pará, Brazil"
+  },
+  {
+    "name": "Santiago",
+    "coordinates": [
+      -33.4375,
+      -70.65
+    ],
+    "type": "City",
+    "context": "Chile"
+  },
+  {
+    "name": "Santo Domingo",
+    "coordinates": [
+      18.476388888,
+      -69.893333333
+    ],
+    "type": "City",
+    "context": "The Dominican Republic"
+  },
+  {
+    "name": "Santos",
+    "coordinates": [
+      -23.9335988,
+      -46.3286399
+    ],
+    "type": "City",
+    "context": "São Paulo, Brazil"
+  },
+  {
+    "name": "Sanya",
+    "coordinates": [
+      18.253333333,
+      109.503611111
+    ],
+    "type": "City",
+    "context": "China"
+  },
+  {
+    "name": "Sarajevo",
+    "coordinates": [
+      43.856388888,
+      18.413055555
+    ],
+    "type": "City",
+    "context": "Bosnia And Herzegovina"
+  },
+  {
+    "name": "Saratoga",
+    "coordinates": [
+      37.2725,
+      -122.019444444
+    ],
+    "type": "City",
+    "context": "California, The United States"
+  },
+  {
+    "name": "Saskatoon",
+    "coordinates": [
+      52.133333333,
+      -106.683333333
+    ],
+    "type": "City",
+    "context": "Canada"
+  },
+  {
+    "name": "Schweinfurt",
+    "coordinates": [
+      50.05,
+      10.233333333
+    ],
+    "type": "City",
+    "context": "Germany"
+  },
+  {
+    "name": "Seattle",
+    "coordinates": [
+      47.60621,
+      -122.33207
+    ],
+    "type": "City",
+    "context": "The United States"
+  },
+  {
+    "name": "Selçuk",
+    "coordinates": [
+      37.94699,
+      27.37349
+    ],
+    "type": "City",
+    "context": "Turkey"
+  },
+  {
+    "name": "Sendai",
+    "coordinates": [
+      38.268222222,
+      140.869416666
+    ],
+    "type": "City",
+    "context": "Japan"
+  },
+  {
+    "name": "Seoul",
+    "coordinates": [
+      37.56,
+      126.99
+    ],
+    "type": "City",
+    "context": "South Korea"
+  },
+  {
+    "name": "Shanghai",
+    "coordinates": [
+      31.16667,
+      121.41667
+    ],
+    "type": "City",
+    "context": "China"
+  },
+  {
+    "name": "Shantou",
+    "coordinates": [
+      23.353888888,
+      116.682222222
+    ],
+    "type": "City",
+    "context": "China"
+  },
+  {
+    "name": "Sheffield",
+    "coordinates": [
+      53.380833333,
+      -1.470277777
+    ],
+    "type": "City",
+    "context": "The United Kingdom"
+  },
+  {
+    "name": "Shenyang",
+    "coordinates": [
+      41.8025,
+      123.428055555
+    ],
+    "type": "City",
+    "context": "China"
+  },
+  {
+    "name": "Shenzhen",
+    "coordinates": [
+      22.535,
+      114.054
+    ],
+    "type": "City",
+    "context": "China"
+  },
+  {
+    "name": "Shigatse",
+    "coordinates": [
+      29.25,
+      88.88333
+    ],
+    "type": "City",
+    "context": "China"
+  },
+  {
+    "name": "Shijiazhuang",
+    "coordinates": [
+      38.0425,
+      114.51
+    ],
+    "type": "City",
+    "context": "China"
+  },
+  {
+    "name": "Shillong",
+    "coordinates": [
+      25.574444444,
+      91.878888888
+    ],
+    "type": "City",
+    "context": "India"
+  },
+  {
+    "name": "Shimla",
+    "coordinates": [
+      31.103333333,
+      77.172222222
+    ],
+    "type": "City",
+    "context": "India"
+  },
+  {
+    "name": "Shiraz",
+    "coordinates": [
+      29.61,
+      52.5425
+    ],
+    "type": "City",
+    "context": "Iran"
+  },
+  {
+    "name": "Shymkent",
+    "coordinates": [
+      42.3,
+      69.6
+    ],
+    "type": "City",
+    "context": "Kazakhstan"
+  },
+  {
+    "name": "Siliguri",
+    "coordinates": [
+      26.72,
+      88.42
+    ],
+    "type": "City",
+    "context": "India"
+  },
+  {
+    "name": "Singapore",
+    "coordinates": [
+      1.3,
+      103.8
+    ],
+    "type": "City",
+    "context": "Singapore"
+  },
+  {
+    "name": "Skopje",
+    "coordinates": [
+      41.996111111,
+      21.431666666
+    ],
+    "type": "City",
+    "context": "North Macedonia"
+  },
+  {
+    "name": "Sochi",
+    "coordinates": [
+      43.585277777,
+      39.720277777
+    ],
+    "type": "City",
+    "context": "Russia"
+  },
+  {
+    "name": "Sofia",
+    "coordinates": [
+      42.697886,
+      23.321726
+    ],
+    "type": "City",
+    "context": "Bulgaria"
+  },
+  {
+    "name": "Sokółka",
+    "coordinates": [
+      53.405014,
+      23.496733
+    ],
+    "type": "City",
+    "context": "Poland"
+  },
+  {
+    "name": "Sorocaba",
+    "coordinates": [
+      -23.501944444,
+      -47.457777777
+    ],
+    "type": "City",
+    "context": "Brazil"
+  },
+  {
+    "name": "South Tarawa",
+    "coordinates": [
+      1.333333333,
+      172.966666666
+    ],
+    "type": "City",
+    "context": "Kiribati"
+  },
+  {
+    "name": "Southampton",
+    "coordinates": [
+      50.906666666,
+      -1.404444444
+    ],
+    "type": "City",
+    "context": "The United Kingdom"
+  },
+  {
+    "name": "Springfield",
+    "coordinates": [
+      39.7975,
+      -89.645
+    ],
+    "type": "City",
+    "context": "Illinois, The United States"
+  },
+  {
+    "name": "Sri Jayawardenepura Kotte",
+    "coordinates": [
+      6.9,
+      79.916388888
+    ],
+    "type": "City",
+    "context": "Sri Lanka"
+  },
+  {
+    "name": "St. George's",
+    "coordinates": [
+      12.044444444,
+      -61.741666666
+    ],
+    "type": "City",
+    "context": "Grenada, Grenada"
+  },
+  {
+    "name": "St. Louis",
+    "coordinates": [
+      38.626388888,
+      -90.199444444
+    ],
+    "type": "City",
+    "context": "The United States"
+  },
+  {
+    "name": "Stockholm",
+    "coordinates": [
+      59.329444444,
+      18.068611111
+    ],
+    "type": "City",
+    "context": "Sweden"
+  },
+  {
+    "name": "Stockton",
+    "coordinates": [
+      37.9575,
+      -121.2925
+    ],
+    "type": "City",
+    "context": "California, The United States"
+  },
+  {
+    "name": "Strasbourg",
+    "coordinates": [
+      48.573333333,
+      7.752222222
+    ],
+    "type": "City",
+    "context": "France"
+  },
+  {
+    "name": "Stuttgart",
+    "coordinates": [
+      48.7775,
+      9.18
+    ],
+    "type": "City",
+    "context": "Germany"
+  },
+  {
+    "name": "Sucre",
+    "coordinates": [
+      -19.0475,
+      -65.26
+    ],
+    "type": "City",
+    "context": "Bolivia"
+  },
+  {
+    "name": "Sunnyvale",
+    "coordinates": [
+      37.368888888,
+      -122.036944444
+    ],
+    "type": "City",
+    "context": "California, The United States"
+  },
+  {
+    "name": "Surabaya",
+    "coordinates": [
+      -7.245833333,
+      112.737777777
+    ],
+    "type": "City",
+    "context": "Indonesia"
+  },
+  {
+    "name": "Surat",
+    "coordinates": [
+      21.205,
+      72.84
+    ],
+    "type": "City",
+    "context": "India"
+  },
+  {
+    "name": "Suva",
+    "coordinates": [
+      -18.133333333,
+      178.433333333
+    ],
+    "type": "City",
+    "context": "Fiji"
+  },
+  {
+    "name": "Suzhou",
+    "coordinates": [
+      31.3,
+      120.619444444
+    ],
+    "type": "City",
+    "context": "China"
+  },
+  {
+    "name": "Sydney",
+    "coordinates": [
+      -33.867777777,
+      151.21
+    ],
+    "type": "City",
+    "context": "Australia"
+  },
+  {
+    "name": "São José",
+    "coordinates": [
+      -27.615,
+      -48.627777777
+    ],
+    "type": "City",
+    "context": "Santa Catarina, Brazil"
+  },
+  {
+    "name": "São José do Rio Preto",
+    "coordinates": [
+      -20.82,
+      -49.378888888
+    ],
+    "type": "City",
+    "context": "Brazil"
+  },
+  {
+    "name": "São José dos Campos",
+    "coordinates": [
+      -23.178888888,
+      -45.886944444
+    ],
+    "type": "City",
+    "context": "Brazil"
+  },
+  {
+    "name": "São Luís",
+    "coordinates": [
+      -2.53,
+      -44.302777777
+    ],
+    "type": "City",
+    "context": "Maranhão, Brazil"
+  },
+  {
+    "name": "São Paulo",
+    "coordinates": [
+      -23.550394444,
+      -46.633947222
+    ],
+    "type": "City",
+    "context": "Brazil"
+  },
+  {
+    "name": "Tabriz",
+    "coordinates": [
+      38.073888888,
+      46.296111111
+    ],
+    "type": "City",
+    "context": "Iran"
+  },
+  {
+    "name": "Taichung",
+    "coordinates": [
+      24.143888888,
+      120.679444444
+    ],
+    "type": "City",
+    "context": "Taiwan"
+  },
+  {
+    "name": "Tainan",
+    "coordinates": [
+      22.983333333,
+      120.183333333
+    ],
+    "type": "City",
+    "context": "Taiwan"
+  },
+  {
+    "name": "Taipei",
+    "coordinates": [
+      25.0375,
+      121.5625
+    ],
+    "type": "City",
+    "context": "Taiwan"
+  },
+  {
+    "name": "Taitung City",
+    "coordinates": [
+      22.758333333,
+      121.144444444
+    ],
+    "type": "City",
+    "context": "Taiwan"
+  },
+  {
+    "name": "Taiyuan",
+    "coordinates": [
+      37.87326,
+      112.54245
+    ],
+    "type": "City",
+    "context": "China"
+  },
+  {
+    "name": "Tallahassee",
+    "coordinates": [
+      30.438333333,
+      -84.280555555
+    ],
+    "type": "City",
+    "context": "Florida, The United States"
+  },
+  {
+    "name": "Tallinn",
+    "coordinates": [
+      59.437222222,
+      24.745
+    ],
+    "type": "City",
+    "context": "Estonia"
+  },
+  {
+    "name": "Tampa",
+    "coordinates": [
+      27.9475,
+      -82.458611111
+    ],
+    "type": "City",
+    "context": "Florida, The United States"
+  },
+  {
+    "name": "Taoyuan",
+    "coordinates": [
+      24.991278,
+      121.314328
+    ],
+    "type": "City",
+    "context": "Taiwan, Taiwan"
+  },
+  {
+    "name": "Tarsus",
+    "coordinates": [
+      36.916666666,
+      34.9
+    ],
+    "type": "City",
+    "context": "Mersin, Turkey"
+  },
+  {
+    "name": "Tashkent",
+    "coordinates": [
+      41.311111111,
+      69.279722222
+    ],
+    "type": "City",
+    "context": "Uzbekistan"
+  },
+  {
+    "name": "Tbilisi",
+    "coordinates": [
+      41.7225,
+      44.7925
+    ],
+    "type": "City",
+    "context": "Georgia"
+  },
+  {
+    "name": "Tegucigalpa",
+    "coordinates": [
+      14.105713888,
+      -87.204008333
+    ],
+    "type": "City",
+    "context": "Honduras"
+  },
+  {
+    "name": "Tehran",
+    "coordinates": [
+      35.7,
+      51.416666666
+    ],
+    "type": "City",
+    "context": "Iran"
+  },
+  {
+    "name": "Teresina",
+    "coordinates": [
+      -5.0949,
+      -42.8042
+    ],
+    "type": "City",
+    "context": "Brazil"
+  },
+  {
+    "name": "The Hague",
+    "coordinates": [
+      52.08,
+      4.31
+    ],
+    "type": "City",
+    "context": "Netherlands"
+  },
+  {
+    "name": "Thimphu",
+    "coordinates": [
+      27.47135,
+      89.63367
+    ],
+    "type": "City",
+    "context": "Bhutan"
+  },
+  {
+    "name": "Thiruvananthapuram",
+    "coordinates": [
+      8.4875,
+      76.9525
+    ],
+    "type": "City",
+    "context": "India"
+  },
+  {
+    "name": "Tianjin",
+    "coordinates": [
+      39.146666666,
+      117.205555555
+    ],
+    "type": "City",
+    "context": "China"
+  },
+  {
+    "name": "Tijuana",
+    "coordinates": [
+      32.536447,
+      -117.037155
+    ],
+    "type": "City",
+    "context": "Mexico"
+  },
+  {
+    "name": "Tirana",
+    "coordinates": [
+      41.328888888,
+      19.817777777
+    ],
+    "type": "City",
+    "context": "Albania"
+  },
+  {
+    "name": "Tixtla de Guerrero",
+    "coordinates": [
+      17.5931,
+      -99.361
+    ],
+    "type": "City",
+    "context": "Mexico"
+  },
+  {
+    "name": "Tokyo",
+    "coordinates": [
+      35.689444444,
+      139.691666666
+    ],
+    "type": "City",
+    "context": "Japan"
+  },
+  {
+    "name": "Toledo",
+    "coordinates": [
+      -24.713888888,
+      -53.742777777
+    ],
+    "type": "City",
+    "context": "Paraná, Brazil"
+  },
+  {
+    "name": "Topeka",
+    "coordinates": [
+      39.04833,
+      -95.67804
+    ],
+    "type": "City",
+    "context": "Kansas, The United States"
+  },
+  {
+    "name": "Toronto",
+    "coordinates": [
+      43.670277777,
+      -79.386666666
+    ],
+    "type": "City",
+    "context": "Canada"
+  },
+  {
+    "name": "Toulouse",
+    "coordinates": [
+      43.604444444,
+      1.443888888
+    ],
+    "type": "City",
+    "context": "France"
+  },
+  {
+    "name": "Trenton",
+    "coordinates": [
+      40.220277777,
+      -74.765833333
+    ],
+    "type": "City",
+    "context": "New Jersey, The United States"
+  },
+  {
+    "name": "Tripoli",
+    "coordinates": [
+      32.87519,
+      13.18746
+    ],
+    "type": "City",
+    "context": "Libya, Libya"
+  },
+  {
+    "name": "Tucson",
+    "coordinates": [
+      32.221666666,
+      -110.926388888
+    ],
+    "type": "City",
+    "context": "Arizona, The United States"
+  },
+  {
+    "name": "Tunis",
+    "coordinates": [
+      36.800833333,
+      10.18
+    ],
+    "type": "City",
+    "context": "Tunisia"
+  },
+  {
+    "name": "Turin",
+    "coordinates": [
+      45.079166666,
+      7.676111111
+    ],
+    "type": "City",
+    "context": "Italy"
+  },
+  {
+    "name": "Turpan",
+    "coordinates": [
+      42.95,
+      89.182222222
+    ],
+    "type": "City",
+    "context": "China"
+  },
+  {
+    "name": "Uberaba",
+    "coordinates": [
+      -19.747777777,
+      -47.931944444
+    ],
+    "type": "City",
+    "context": "Brazil"
+  },
+  {
+    "name": "Uberlândia",
+    "coordinates": [
+      -18.918888888,
+      -48.276944444
+    ],
+    "type": "City",
+    "context": "Brazil"
+  },
+  {
+    "name": "Ufa",
+    "coordinates": [
+      54.726111111,
+      55.9475
+    ],
+    "type": "City",
+    "context": "Russia"
+  },
+  {
+    "name": "Ulaanbaatar",
+    "coordinates": [
+      47.921357,
+      106.905515
+    ],
+    "type": "City",
+    "context": "Mongolia"
+  },
+  {
+    "name": "Umuarama",
+    "coordinates": [
+      -23.765833333,
+      -53.325
+    ],
+    "type": "City",
+    "context": "Brazil"
+  },
+  {
+    "name": "Vadodara",
+    "coordinates": [
+      22.3,
+      73.2
+    ],
+    "type": "City",
+    "context": "India"
+  },
+  {
+    "name": "Vaduz",
+    "coordinates": [
+      47.139722222,
+      9.521944444
+    ],
+    "type": "City",
+    "context": "Liechtenstein"
+  },
+  {
+    "name": "Vallejo",
+    "coordinates": [
+      38.104088,
+      -122.256638
+    ],
+    "type": "City",
+    "context": "California, The United States"
+  },
+  {
+    "name": "Valletta",
+    "coordinates": [
+      35.897777777,
+      14.5125
+    ],
+    "type": "City",
+    "context": "Malta"
+  },
+  {
+    "name": "Vancouver",
+    "coordinates": [
+      49.260833333,
+      -123.113888888
+    ],
+    "type": "City",
+    "context": "Canada"
+  },
+  {
+    "name": "Varanasi",
+    "coordinates": [
+      25.318888888,
+      83.012777777
+    ],
+    "type": "City",
+    "context": "India"
+  },
+  {
+    "name": "Venice",
+    "coordinates": [
+      45.439722222,
+      12.331944444
+    ],
+    "type": "City",
+    "context": "Italy"
+  },
+  {
+    "name": "Verona",
+    "coordinates": [
+      45.438611111,
+      10.992777777
+    ],
+    "type": "City",
+    "context": "Italy"
+  },
+  {
+    "name": "Victoria",
+    "coordinates": [
+      48.422151,
+      -123.3657
+    ],
+    "type": "City",
+    "context": "British Columbia, Canada"
+  },
+  {
+    "name": "Victoria",
+    "coordinates": [
+      -4.623611111,
+      55.454444444
+    ],
+    "type": "City",
+    "context": "Seychelles, Seychelles"
+  },
+  {
+    "name": "Vienna",
+    "coordinates": [
+      48.208333333,
+      16.3725
+    ],
+    "type": "City",
+    "context": "Austria"
+  },
+  {
+    "name": "Vientiane",
+    "coordinates": [
+      17.98,
+      102.63
+    ],
+    "type": "City",
+    "context": "Laos"
+  },
+  {
+    "name": "Vijayawada",
+    "coordinates": [
+      16.516666666,
+      80.616666666
+    ],
+    "type": "City",
+    "context": "India"
+  },
+  {
+    "name": "Vilnius",
+    "coordinates": [
+      54.687222222,
+      25.28
+    ],
+    "type": "City",
+    "context": "Lithuania"
+  },
+  {
+    "name": "Visakhapatnam",
+    "coordinates": [
+      17.733333333,
+      83.316666666
+    ],
+    "type": "City",
+    "context": "India"
+  },
+  {
+    "name": "Vitória",
+    "coordinates": [
+      -20.310555555,
+      -40.297222222
+    ],
+    "type": "City",
+    "context": "Espírito Santo, Brazil"
+  },
+  {
+    "name": "Vitória da Conquista",
+    "coordinates": [
+      -14.865833333,
+      -40.838888888
+    ],
+    "type": "City",
+    "context": "Brazil"
+  },
+  {
+    "name": "Vladivostok",
+    "coordinates": [
+      43.115,
+      131.885277777
+    ],
+    "type": "City",
+    "context": "Russia"
+  },
+  {
+    "name": "Volgograd",
+    "coordinates": [
+      48.708611111,
+      44.514722222
+    ],
+    "type": "City",
+    "context": "Russia"
+  },
+  {
+    "name": "Warangal",
+    "coordinates": [
+      17.975555555,
+      79.601111111
+    ],
+    "type": "City",
+    "context": "India"
+  },
+  {
+    "name": "Warsaw",
+    "coordinates": [
+      52.23,
+      21.011111111
+    ],
+    "type": "City",
+    "context": "Poland"
+  },
+  {
+    "name": "Washington, D.C.",
+    "coordinates": [
+      38.895,
+      -77.036666666
+    ],
+    "type": "City",
+    "context": "D.C., The United States"
+  },
+  {
+    "name": "Weihai",
+    "coordinates": [
+      37.5,
+      122.1
+    ],
+    "type": "City",
+    "context": "China"
+  },
+  {
+    "name": "Wellington",
+    "coordinates": [
+      -41.288888888,
+      174.777222222
+    ],
+    "type": "City",
+    "context": "New Zealand"
+  },
+  {
+    "name": "Wenzhou",
+    "coordinates": [
+      27.999128,
+      120.656075
+    ],
+    "type": "City",
+    "context": "China"
+  },
+  {
+    "name": "Windhoek",
+    "coordinates": [
+      -22.57,
+      17.083611111
+    ],
+    "type": "City",
+    "context": "Namibia"
+  },
+  {
+    "name": "Winnipeg",
+    "coordinates": [
+      49.895555555,
+      -97.138611111
+    ],
+    "type": "City",
+    "context": "Canada"
+  },
+  {
+    "name": "Wrocław",
+    "coordinates": [
+      51.11,
+      17.0325
+    ],
+    "type": "City",
+    "context": "Poland"
+  },
+  {
+    "name": "Wuhan",
+    "coordinates": [
+      30.587222222,
+      114.288055555
+    ],
+    "type": "City",
+    "context": "China"
+  },
+  {
+    "name": "Wuxi",
+    "coordinates": [
+      31.566667,
+      120.283333
+    ],
+    "type": "City",
+    "context": "China"
+  },
+  {
+    "name": "Xi'an",
+    "coordinates": [
+      34.261111111,
+      108.942222222
+    ],
+    "type": "City",
+    "context": "China"
+  },
+  {
+    "name": "Xiamen",
+    "coordinates": [
+      24.479722222,
+      118.081944444
+    ],
+    "type": "City",
+    "context": "China"
+  },
+  {
+    "name": "Xining",
+    "coordinates": [
+      36.62386,
+      101.77866
+    ],
+    "type": "City",
+    "context": "China"
+  },
+  {
+    "name": "Yamoussoukro",
+    "coordinates": [
+      6.816111111,
+      -5.274166666
+    ],
+    "type": "City",
+    "context": "Ivory Coast"
+  },
+  {
+    "name": "Yantai",
+    "coordinates": [
+      37.464444444,
+      121.447777777
+    ],
+    "type": "City",
+    "context": "China"
+  },
+  {
+    "name": "Yaoundé",
+    "coordinates": [
+      3.857777777,
+      11.518055555
+    ],
+    "type": "City",
+    "context": "Cameroon"
+  },
+  {
+    "name": "Yaren District",
+    "coordinates": [
+      -0.5477,
+      166.920867
+    ],
+    "type": "City",
+    "context": "Nauru"
+  },
+  {
+    "name": "Yekaterinburg",
+    "coordinates": [
+      56.835555555,
+      60.612777777
+    ],
+    "type": "City",
+    "context": "Russia"
+  },
+  {
+    "name": "Yerevan",
+    "coordinates": [
+      40.181388888,
+      44.514444444
+    ],
+    "type": "City",
+    "context": "Armenia"
+  },
+  {
+    "name": "Yinchuan",
+    "coordinates": [
+      38.485,
+      106.225
+    ],
+    "type": "City",
+    "context": "China"
+  },
+  {
+    "name": "Yogyakarta",
+    "coordinates": [
+      -7.800456766,
+      110.391280229
+    ],
+    "type": "City",
+    "context": "Indonesia"
+  },
+  {
+    "name": "Yokohama",
+    "coordinates": [
+      35.450333333,
+      139.634222222
+    ],
+    "type": "City",
+    "context": "Japan"
+  },
+  {
+    "name": "Zagreb",
+    "coordinates": [
+      45.813055555,
+      15.977222222
+    ],
+    "type": "City",
+    "context": "Croatia"
+  },
+  {
+    "name": "Zamboanga City",
+    "coordinates": [
+      6.904166666,
+      122.076111111
+    ],
+    "type": "City",
+    "context": "Philippines"
+  },
+  {
+    "name": "Zaporizhzhia",
+    "coordinates": [
+      47.85,
+      35.1175
+    ],
+    "type": "City",
+    "context": "Ukraine"
+  },
+  {
+    "name": "Zaragoza",
+    "coordinates": [
+      41.65,
+      -0.883333333
+    ],
+    "type": "City",
+    "context": "Spain"
+  },
+  {
+    "name": "Zhengzhou",
+    "coordinates": [
+      34.74919,
+      113.66051
+    ],
+    "type": "City",
+    "context": "China"
+  },
+  {
+    "name": "Zhuhai",
+    "coordinates": [
+      22.27694,
+      113.56778
+    ],
+    "type": "City",
+    "context": "China"
+  },
+  {
+    "name": "Ürümqi",
+    "coordinates": [
+      43.8225,
+      87.6125
+    ],
+    "type": "City",
+    "context": "China"
+  }
+]

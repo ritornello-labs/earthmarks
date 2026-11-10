@@ -1,0 +1,5 @@
+project_name = "Earthmarks media"
+seed_apkgs = ["out/places/preview.apkg"]
+anki_version = "25.09"
+probe_addon = "places/tests/media_probe"
+probe_package = "zz_earthmarks_media_probe"

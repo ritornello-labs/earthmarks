@@ -1,0 +1,11 @@
+{
+  "source": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/bmng/bmng-base/january/world.200401.3x21600x10800.jpg",
+  "sha256": "c2f2c80a352518cfea23d462dad6f6e778375ddd74bbec5786bcfc85cc49c61d",
+  "tile_size": 1024,
+  "maxzoom": 4,
+  "sampled_source_size": [
+    10800,
+    5400
+  ],
+  "description": "NASA Blue Marble January 2004; JPEG decoder samples to 10800x5400 before Mercator reprojection."
+}
