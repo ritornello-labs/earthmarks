@@ -63,7 +63,7 @@ An agent can help add new places just as easily: give it the names, verify their
 
 ## Getting started
 
-The first shared-deck download is being prepared. This repository contains the implementation, the 704-place seed, and the build tools; it is not yet an AnkiWeb release.
+Download the **[Earthmarks deck (.apkg)](https://github.com/ritornello-labs/earthmarks/releases/download/v2026.11.09/Earthmarks.apkg)** or browse the **[release and checksum](https://github.com/ritornello-labs/earthmarks/releases/tag/v2026.11.09)**. The first edition contains 704 new cards and the complete offline globe (28.3 MB). AnkiWeb publication is in progress.
 
 After importing a released deck, let Anki finish media sync. The globe then works offline. Wikipedia references need an internet connection.
 
