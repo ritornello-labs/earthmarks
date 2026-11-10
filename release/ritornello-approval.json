@@ -1,0 +1,18 @@
+{
+  "date": "2026-11-09",
+  "scope": "Ritornello listing text and native demo media approved by the owner",
+  "media": [
+    {
+      "file": "docs/images/2026-11-09-v2/locate-short.gif",
+      "sha256": "cab20769872370f690c8db21f2d69cbc15ad611f790dc12c0aba39dc2dce3d9d",
+      "bytes": 3093924
+    },
+    {
+      "file": "docs/images/2026-11-09-v2/settings-quick.gif",
+      "sha256": "76c9feec33a8fd43d440d44eeb34dcb1c196355fda7258c8218d85a959e1891a",
+      "bytes": 272870
+    }
+  ],
+  "ankiweb_listing_approval": "pending",
+  "ankiweb_submitted": false
+}
