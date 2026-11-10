@@ -46,8 +46,8 @@ repository's synthetic `--apkg` build is a QA fixture, not the shared deck.
 
 The Ritornello entry and both final GIFs were approved on November 9, 2026;
 exact media hashes are in `release/ritornello-approval.json`. The separate
-AnkiWeb draft is `release/ankiweb.md` and awaits its own complete-page review.
-After that review, prepare the final release package through anki-addon-release
+AnkiWeb draft is `release/ankiweb.md` and its complete preview was approved on November 9, 2026.
+Prepare the final release package through anki-addon-release
 and isolated Publisher.
 Check copyright/provenance and the exact final APKG; archive byte-identical
 AnkiWeb submission bytes in a tagged GitHub release. Include the download and
@@ -56,3 +56,9 @@ itself authorize an Earthmarks deck submission.
 
 Android QA uses the remote service only; never start a local emulator on the
 storage-constrained development machine. Stop every leased worker when done.
+
+Build the clean public seed with `python places/scripts/release.py --output out/places/Earthmarks.apkg`.
+Supply the 341 overview tiles with `--media PATH` if they are not under
+`out/places/media`. This build has stable public identities and only new cards;
+never substitute the three-note `build.py --apkg` QA fixture.
+Release configuration is `release/ankiweb.toml`; source deck IDs belong in ignored `.env`.
