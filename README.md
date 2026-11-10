@@ -63,7 +63,7 @@ An agent can help add new places just as easily: give it the names, verify their
 
 ## Getting started
 
-Download the **[Earthmarks deck (.apkg)](https://github.com/ritornello-labs/earthmarks/releases/download/v2026.11.09/Earthmarks.apkg)** or browse the **[release and checksum](https://github.com/ritornello-labs/earthmarks/releases/tag/v2026.11.09)**. The first edition contains 704 new cards and the complete offline globe (28.3 MB). AnkiWeb publication is in progress.
+Download the **[Earthmarks deck (.apkg)](https://github.com/ritornello-labs/earthmarks/releases/download/v2026.11.09/Earthmarks.apkg)** or browse the **[release and checksum](https://github.com/ritornello-labs/earthmarks/releases/tag/v2026.11.09)**. The first edition contains 704 new cards and the complete offline globe (28.4 MB). The **[AnkiWeb listing](https://ankiweb.net/shared/info/1024786355)** has been submitted and is awaiting public review.
 
 After importing a released deck, let Anki finish media sync. The globe then works offline. Wikipedia references need an internet connection.
 
