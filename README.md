@@ -5,7 +5,7 @@ Geography you can put your finger on.</p>
 
 <p align="center"><a href="#the-reveal">See the reveal</a> · <a href="#add-your-own-places">Add a place</a> · <a href="#getting-started">Get started</a> · <a href="https://ritornello.dev/support">Support Ritornello</a></p>
 
-<p align="center"><img src="docs/images/2026-11-09-v2/locate.gif" alt="An actual Anki review: rotate and zoom the globe, guess San Francisco near Las Vegas, then reveal both points and the 670.4 km gap." width="960"></p>
+<p align="center"><img src="docs/images/2026-11-09-v2/locate-short-front.gif" alt="An actual Anki review: rotate and zoom the globe, guess San Francisco near Las Vegas, then reveal both points and the 670.4 km gap." width="960"></p>
 
 <p align="center"><sub>Captured in real Anki with a synthetic practice note. Orange is your guess; green is the location.</sub></p>
 
