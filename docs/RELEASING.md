@@ -62,3 +62,7 @@ Supply the 341 overview tiles with `--media PATH` if they are not under
 `out/places/media`. This build has stable public identities and only new cards;
 never substitute the three-note `build.py --apkg` QA fixture.
 Release configuration is `release/ankiweb.toml`; source deck IDs belong in ignored `.env`.
+
+First AnkiWeb submission: [1024786355](https://ankiweb.net/shared/info/1024786355),
+November 9, 2026; signed-in metadata and both images verified. AnkiWeb public
+review is pending. Use the recorded shared ID for updates; do not create a duplicate.

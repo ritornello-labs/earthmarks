@@ -1,0 +1,14 @@
+{
+  "version": "0.1.0",
+  "tag": "v2026.11.09",
+  "ankiweb_url": "https://ankiweb.net/shared/info/1024786355",
+  "ankiweb_status": "submitted-pending-public-review",
+  "notes": 704,
+  "cards": 704,
+  "offline_tiles": 341,
+  "new_cards_only": true,
+  "archive_matches_ankiweb_delivery": true,
+  "native_interaction": "passed",
+  "media_byte_comparison": "passed",
+  "receipt": "v2026.11.09-artifact.json"
+}
