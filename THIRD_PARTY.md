@@ -38,7 +38,7 @@ The coarse borders are a reference aid, not an assertion about disputed territor
 
 README screenshots and GIFs show synthetic San Francisco and Paris notes rendered in
 actual disposable Anki by anki-addon-workbench. They are cropped to the card and
-resized for documentation. No personal notes, review histories or collection
+resized for documentation. The settings demo adds a visible editorial cursor and click pulses, synchronized to the recorded native UI actions; the underlying card render is unchanged. No personal notes, review histories or collection
 identifiers appear. The banner is original decorative artwork, not a card render.
 
 Photographs and Wikipedia articles added by users keep their original terms.

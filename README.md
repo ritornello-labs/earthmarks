@@ -5,7 +5,7 @@ Geography you can put your finger on.</p>
 
 <p align="center"><a href="#the-reveal">See the reveal</a> · <a href="#add-your-own-places">Add a place</a> · <a href="#getting-started">Get started</a> · <a href="https://ritornello.dev/support">Support Ritornello</a></p>
 
-<p align="center"><img src="docs/images/2026-11-09-v2/locate-short-front.gif" alt="An actual Anki review: rotate and zoom the globe, guess San Francisco near Las Vegas, then reveal both points and the 670.4 km gap." width="960"></p>
+<p align="center"><img src="docs/images/2026-11-09-v2/locate-short.gif" alt="An actual Anki review: rotate and zoom the globe, guess San Francisco near Las Vegas, then reveal both points and the 670.4 km gap." width="960"></p>
 
 <p align="center"><sub>Captured in real Anki with a synthetic practice note. Orange is your guess; green is the location.</sub></p>
 
@@ -31,7 +31,7 @@ The starting set is an arbitrary selection of **704 cities**. The same template 
 
 Borders start off, so coastlines, terrain, and spatial memory do the work. Turn borders on whenever you want a reference. Choose your default tolerance, reduce motion, or add an individual tolerance for a particular place.
 
-<img src="docs/images/2026-11-09-v2/settings.gif" alt="A real Anki Paris practice card: open settings, turn country borders on, close the menu, and see the borders on the globe." width="960">
+<img src="docs/images/2026-11-09-v2/settings-cursor.gif" alt="A real Anki Paris practice card: open settings, turn country borders on, close the menu, and see the borders on the globe." width="960">
 
 The settings menu lets you choose borders, precision, image layout, Wikipedia display, and reduced motion. The demo holds the unobstructed globe after borders are enabled.
 
